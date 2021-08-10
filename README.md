@@ -1,111 +1,153 @@
 # Bootcamp 2020: Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs in Baby Steps and Build Your SaaS Startup
 
-We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps and Websites including e-commerce apps using React, Gatsby.js, Redux, GraphQL, Serverless, MongoDB, FaunaDB, Git, GitHub, GitHub Actions, Netlify, Contentful, Stripe, SnipCart, Shopify, etc. and to sell your services on Upwork and Fiverr. 
+We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps and Websites including e-commerce apps using React, Gatsby.js, Redux, GraphQL, RESTful OpenAPI, Serverless, AWS Lambda Functions, AWS Lambda Containers, AWS Aruora Serverless, AWS Neptune, AWS EventBridge, MongoDB, FaunaDB, Git, GitHub, GitHub Actions, Netlify, Contentful, Stripe, SnipCart, Shopify, etc. 
 
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
 [Pakistan Digital Gig Economy Surged 69% Amid COVID19 Pandemic](http://www.pakalumni.com/m/blogpost?id=1119293%3ABlogPost%3A312758)
 
+Difference Between Bootcamp 2020 and Bootcamp 2021
+
+The objective of Bootcamp 2020 is to train developers to develop cloud based SaaS Apps and general serverless APIs for these apps. It includes developing graphic user interfaces (GUIs) development using React, Gatsby, and React Native.
+
+[Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/)
+
+The objective of Bootcamp 2021 to to train developers to develop cloud based AI and IoT powered serverless APIs. We will not cover graphic user interfaces (GUIs) in Bootcamp 2021 but only voice based conversational interfaces. A conversational interface (CUI) is a user interface for computers that emulates a conversation with a real human. The course of this bootcamp is designed in such a way that Bootcamp 2020 is not a prerequisite to Bootcamp 2021.
+
+[Bootcamp 2021](https://panacloud.github.io/bootcamp-2021/)
+
+The recording of Bootcamp 2021 will start after the recording of Bootcamp 2020 is complete. After the recording in Bootcamp 2020 is complete, it does not mean that the Bootcamp is closed. Admissions and project acceptance will remain open in both the Bootcamps at atleast till December 2023. We are also developing a platform for developers which will adopt both these bootcamps. Our upcoming Operation Unicorn Startups will also require participations in these bootcamps.
+
+[Cloud’s trillion-dollar prize is up for grabs](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/clouds-trillion-dollar-prize-is-up-for-grabs)
+
+The objective of both Bootcamp 2020 and Bootcamp 2021 is to train people to go after this prize.
+
+How many of these questions can you answer?
+
+Note: Bootcamp 2020 and 2021 cover these topics.
+
+Questions a Modern Application and API Developer must be able to answer:
+
+1. What is Cloud Computing?
+2. What is Serverless?
+3. What is SaaS and Serverless SaaS?
+4. What is Event-Driven Architecture?
+5. What are APIs?
+6. What are RESTful OpenAPIs?
+7. What are GraphQL APIs?
+8. What is IaC and Cloud Development Kit (CDK)?
+9. What is Typescript and why do use it as our default web programming language?
+10. What is Node.js?
+11. What is Web Assembly?
+12. What are Lambda Functions?
+13. What are Containers?
+14. What are Relational Databases and SQL? 
+15. What is AWS Aurora Serverless?
+16. What are Graph Databases and Gremlin?
+17. What is AWS Neptune and Azure Cosmos DB?
+18. Why do we now advise developers to use Relational or Graph Databases for developing their APIs?
+19. What is an AWS Event Bridge?
+20. What is real-time data streaming? e.g. Kinesis and Kafka
+21. What is Edge Computing?
+22. What is AWS Greengrass and Azure IoT Edge?
+23. What is FreeRTOS?
+24. What is Rust and what is it best used for?
+25. What is AI as a Service (AIaaS)?
+26. What is Tensorflow and why do we prefer Python for AI development?
+27. What is Amazon SageMaker?
+28. What is Amazon Neptune Machine Learning?
+29. What is Amazon Aurora Machine Learning?
+30. What are Smart Contracts?
+31. What is Ethereum 2.0?
+32. What is Ewasm?
+33. What is Diem?
+
+
 Overview of the concepts by the Students:
 
 [Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs Presentation by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
 
-## [Join Panacloud Discord Discussion Server Now](https://discord.gg/kARFecfpAp)
 
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites-html-css-and-javascript)
-3. [Class 1: Development Setup](#class-1-development-setup)
-4. [Class 2: Starting React](#class-2-starting-react)
-5. [Class 3 and 4: Learn React](#class-3-and-4--learn-react)
-6. [Class 5 and 6: Hooks](#class-5-and-6-hooks)
+3. [Part I: Front-End Fundamentals with React](#part-i-front-end-fundamentals-with-react)
+4. [Class 1: Development Setup](#class-1-development-setup)
+5. [Class 2: Starting React](#class-2-starting-react)
+6. [Class 3 and 4: Learn React](#class-3-and-4--learn-react)
+7. [Class 5 and 6: Hooks](#class-5-and-6-hooks)
    * [Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API](#bootcamp-2020-project-1-build-an-expense-tracker-app-using-react-hooks-and-context-api)
-7. [Class 7: Asynchronous JavaScript](#class-7-asynchronous-javascript)
-8. [Class 8: Fetch Data](#class-8-fetch-data)
-9. [Class 9 and 10: Material UI](#class-9-and-10--material-ui)
+8. [Class 7: Asynchronous JavaScript](#class-7-asynchronous-javascript)
+9. [Class 8: Fetch Data](#class-8-fetch-data)
+10. [Class 9 and 10: Material UI](#class-9-and-10--material-ui)
    * [Bootcamp 2020 Project 2: COVID-19 Tracker App](#bootcamp-2020-project-2--covid-19-tracker-app)
-10. [Class 11 React Router v6](#class-11-react-router-v6)
+11. [Class 11 React Router v6](#class-11-react-router-v6)
     * [Bootcamp 2020 Project 3: Shoe Store](#bootcamp-2020-project-3-shoe-store)
-11. [Class 12 Web Animations API](#class-12-web-animations-api)
-12. [Class 13 Web Animations API with React](#class-13-web-animations-api-with-react)
+12. [Class 12 Web Animations API](#class-12-web-animations-api)
+13. [Class 13 Web Animations API with React](#class-13-web-animations-api-with-react)
     * [Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API and React Hooks](#bootcamp-2020-project-4a--red-queen-s-race-with-web-animation-api-and-react-hooks)
     * [Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks](#bootcamp-2020-project-4b-develop-tiny-short-animation-with-react-hooks)
     * [Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations](#bootcamp-2020-bonus-extra-project-5-build-an-animated-react-website-which-follows-the-latest-trends-like-animated-illustrations)
-13. [Class 14, 15 and 16 F](#class-14-15-and-16-typescript)
+14. [Part II: Programming with TypeScript](#part-ii-programming-with-typescript)
     * [Bootcamp 2020 Project 6: Quiz App with React and TypeScript](#bootcamp-2020-project-6--quiz-app-with-react-and-typescript)
-14. [Class 17 Progressive Web Apps (PWA) and Offline Availability](#class-17-progressive-web-apps-pwa-and-offline-availability)
-15. [Class 18 Progressive Web App (PWA) and Service Push Notification](#class-18-progressive-web-app-pwa-and-service-push-notification)
-    * [Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications](#bootcamp-2020-project-7a--rebuild-the-expense-tracker-app-and-quiz-app-with-react-typescript-it-should-be-a-progressive-web-app--pwa--with-offline-capability-and-push-notifications)
-16. [Class 19 and 20 How to Test React Components in TypeScript](#class-19-and-20-how-to-test-react-components-in-typescript)
+15. [Part III: Progressive Web Apps (PWA)](#part-iii-progressive-web-apps-pwa)
+16. [Class 17 Progressive Web Apps (PWA) and Offline Availability](#class-17-progressive-web-apps-pwa-and-offline-availability)
+17. [Class 18 Progressive Web App (PWA) and Service Push Notification](#class-18-progressive-web-app-pwa-and-service-push-notification)
+    * [Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz Part IV: Testing React in TypeScriptApp with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications](#bootcamp-2020-project-7a--rebuild-the-expense-tracker-app-and-quiz-app-with-react-typescript-it-should-be-a-progressive-web-app--pwa--with-offline-capability-and-push-notifications)
+18. [Part IV: Testing React in TypeScript](#part-iv-testing-react-in-typeScript)
     * [Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test Driven Development](#bootcamp-2020-project-7b--build-a-react-timer-app-using-typescript-with-test-driven-development)
-17. [Class 21, 22, and 23 Client Side GraphQL in React Apps](#class-21--22--and-23-client-side-graphql-in-react-apps)
+19. [Part V: Client Side GraphQL in React Apps](#part-v-client-side-graphql-in-react-apps)
     * [Bootcamp 2020 Project 8: Build a Build a Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA](#bootcamp-2020-project-8--build-a-build-a-space-x-client-application-with-react-typescript-appllo-client-3-and-spacex-api-using-test-driven-development-tdd-and-deployed-as-a-pwa)
-18. [Class 24, 25, and 26 Managing State with Redux Toolkit and Building API Mocking Servers with Mirage](#class-24-25-and-26-managing-state-with-redux-toolkit-and-building-api-mocking-servers-with-mirage)
+20. [Part VI: Managing State with Redux](#part-vi-managing-state-with-redux)
     * [Bootcamp 2020 Project 9A: Create a Shopping Basket using React and Redux Toolkit with TypeScript](#bootcamp-2020-project-9a-create-a-shopping-basket-using-react-and-redux-toolkit-with-typescript)
     * [Bootcamp 2020 Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript](#bootcamp-2020-project-9b-building-diaries-app-using-react-and-redux-toolkit-with-typescript)
-19. [Class 27 and 28 Forms with Formik and Yup](#class-27-and-28-forms-with-formik-and-yup)
+21. [Part VII: API Mocking Servers with Mirage](#part-vii-api-mocking-servers-with-mirage)
+22. [Part VIII: Forms with Formik and Yup](#part-viii-forms-with-formik-and-yup)
     * [Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript](#bootcamp-project-10-build-a-signup-form-and-multi-step-form-with-formik-yup-and-material-ui-using-typescript)
-20. [Class 29 and 30 React Component Driven Development with Storybook and Bit](#class-29-and-30-react-component-driven-development-with-storybook-and-bit)
+22. [Part IX: Component Driven Development with Storybook and Bit](#part-ix-component-driven-development-with-storybook-and-bit)
     * [Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit](#bootcamp-project-11--build-a-taskbox-react-component-in-typescript-using-storybook-and-publishing-it-on-bit)
-21. [Class 31 to 41 Learn JAMstack Serverless and Headless CMS](#class-31-to-41-learn-jamstack-serverless-and-headless-cms)
+23. [Part X: JAMstack Serverless and Headless CMS](#part-x-jamstack-serverless-and-headless-cms)
     * [Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify](#bootcamp-2020-project-12a-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-on-netlify)
     * [Bootcamp 2020 Project 12B: Building Serverless CRUD apps with Netlify Functions and FaunaDB](#bootcamp-2020-project-12b-building-serverless-crud-apps-with-netlify-functions-and-faunadb)
     * [Bootcamp 2020 Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB](#bootcamp-2020-project-12c-building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb)
     * [Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby](#bootcamp-2020-project-12d-create-a-bookmarking-application-with-faunadb-netlify-and-gatsby)
     * [Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6](#bootcamp-2020-project-12e-virtual-lolly-using-gatsby-netlify-faunadb-formik-and-storybook-6)
     * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
-22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
-23. [Class 51-60: Serverless SaaS Apps and APIs](#class-51-60-serverless-saas-apps-and-apis)
-24. [Class 61-65: Figma for Developers](#class-61-65-figma-for-developers)
-25. [Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#class-65-70-combining-design-thinking-lean-startup-and-agile-to-build-saas-startups)
-26. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
-    * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
-    * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
-    * [Homework Reading Material: Styled-Components In React](#homework-reading-material-styled-components-in-react)
-    * [Project Ideas for Your Portfolio](#project-ideas-for-your-portfolio)
-27. [Class 33 Learn to Market Our Skills](#class-33-learn-to-market-our-skills)
-    * [Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA](#bootcamp-2020-important-personal-project-i-build-a-developer-profile-portfolio-site-in-gatsbyjs-contentful-with-typescript-and-deploy-as-a-pwa)
-    * [Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin](#bootcamp-2020-important-personal-project-ii-build-a-detailed-linkedin-developer-profile-and-become-active-on-linkedin)
-    * [Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver](#bootcamp-2020-important-personal-project-iii-create-full-stack-react-gatsby-and-serverless-gigs-on-fivver)
-    * [Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project](#bootcamp-2020-important-personal-project-iv-start-working-on-a-panacloud-usa-project)
-    * [Bootcamp 2020 Important Personal Project V: Build Upwork Profile](#bootcamp-2020-important-personal-project-v-build-upwork-profile)
-28. Build Android, iOS, and Web apps with React Native and Expo
-29. Integration with AI and DeFi Services
-30. [Start working for Panacloud Silicon Valley Clients](start-working-for-panacloud-silicon-valley-clients)
-31. Learn Design Thinking, Learn Startup, and Agile
-32. Develop MVP of AI and DeFi powered Serverless Ecommerce Products and Services
-33. Receive Funding from Silicon Valley VC's for our SaaS Startups
-
-
+24. [Part XI: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#part-xi-jamstack-ecommerce-stripe-shopify-and-snipcart)
+25. [Part XII: Full Stack Serverless with AWS Cloud Development Kit - CDK](#part-xii-full-stack-serverless-with-aws-cloud-development-kit---cdk)
+    * [Bootcamp 2020 Project 13A: Building a Serverless JAMStack Todo app with AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB](#bootcamp-2020-project-13a-building-a-serverless-jamstack-todo-app-with-aws-cdk-aws-cloudfront-gatsby-graphqlaws-appsync-and-dynamodb)
+    * [Bootcamp 2020 Project 13B: Create A Bookmarking Application With AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, and DynamoDB](#bootcamp-2020-project-13b-create-a-bookmarking-application-with-aws-cdk-aws-cloudfront-gatsby-graphqlaws-appsync-and-dynamodb)
+    * [Bootcamp 2020 Project 13C: Virtual Lolly using AWS CDK, AWS CloudFront, Gatsby, GraphQL/AWS AppSync, DynamoDB, Formik, and Storybook 6](#bootcamp-2020-project-13c-virtual-lolly-using-aws-cdk-aws-cloudfront-gatsby-graphqlaws-appsync-dynamodb-formik-and-storybook-6)
+    * [Bootcamp 2020 Project 14: Building Serverless Apps with Event-Driven Architecture using AWS Eventbridge](#bootcamp-2020-project-14-building-serverless-apps-with-event-driven-architecture-using-aws-eventbridge)
+    * [Bootcamp 2020 Project 15A: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Graph Database and GraphQL](#bootcamp-2020-project-15a-build-serverless-saas-apis-for-diningbyfriends-social-network-project-using-graph-database-and-graphql)
+    * [Bootcamp 2020 Project 15B: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI](#bootcamp-2020-project-15b-build-serverless-saas-apis-for-diningbyfriends-social-network-project-using-relational-database-and-openapi)
+26. [Part XIII: Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify](#part-xiii-android-and-ios-mobile-full-stack-apps-using-react-native-with-expo-and-amplify)
+    * [Bootcamp 2020 Project 16: Build Serverless Slack App with Expo and AWS Amplify](#bootcamp-2020-project-16-build-serverless-slack-app-with-expo-and-aws-amplify)
+27. [Appendices](#appendices)
+    * [Appendix A: Figma for Developers](#appendix-a-figma-for-developers)
+    * [Appendix B: Design Patterns in TypeScript](#appendix-b-design-patterns-in-typeScript)
+    * [Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#appendix-c-combining-design-thinking-lean-startup-and-agile-to-build-saaS-startups)
+    * [Appendix D: Cloud Security](#appendix-d-cloud-security)
+    * [Appendix E: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer](#appendix-e-list-of-students-who-have-completed-the-first-12-projects-and-started-to-work-towards-becoming-a-full-stack-serverless-cloud-developer)
 
 
 ## Introduction to English and Urdu Sections
 
-[Bootcamp 2022 Group on LinkedIn](https://www.linkedin.com/groups/8964441/)
-
 ### English Section:
 
-Every Tuesday at 10:00 PM – 11:15 PM Pakistan Standard Time
-
-Every Saturday at 10:00 PM – 11:15 PM Pakistan Standard Time
-
-[English broadcast live on Facebook](https://www.facebook.com/groups/4irug)
+[English Class Facebook Group](https://www.facebook.com/groups/4irug)
 
 [YouTube English Channel](https://www.youtube.com/channel/UCZUgRzBPk8CoYeHhbPL8OWg)
 
 ### Urdu Section:
 
-Every Wednesday 10:00 pm to 11:15 pm Pakistan Standard Time
-
-Every Sunday 10:00 pm to 11:15 pm Pakistan Standard Time
-
-[Urdu broadcast live on Facebook](https://www.facebook.com/groups/freelance.remote.work/)
+[Urdu Class Facebook Group](https://www.facebook.com/groups/freelance.remote.work/)
 
 [YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
 
 ### Teaching Team:
 
-[Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam and [Zia Khan](https://github.com/ziaukhan).
+[Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam, Waris, Huma, and [Zia Khan](https://github.com/ziaukhan).
 
 ## Prerequisites: HTML, CSS, and JavaScript
 
@@ -121,8 +163,9 @@ Note: Material in English is already available [extensively on the web](https://
 
 [Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
+# Part I: Front-End Fundamentals with React
 
-## Class 1: Development Setup
+## Class 1: Development Setup (Github Actions CI/CD and Surge Deployment)
 
 Learning Material for Class 1:
 
@@ -132,17 +175,17 @@ Learning Material for Class 1:
 
 [Notes](https://docs.google.com/document/d/11D43REjdlsoZgchrhwf8UeuGdtXaFFMnHS9CAkVkXoY/edit)
 
-[Class 1 in English on Facebook](https://www.facebook.com/piaic.main/videos/170335457846407/)
+[Class 1 in English on Facebook : Intro to Bootcamp 2020 and Development Setup](https://www.facebook.com/piaic.main/videos/170335457846407/)
 
-[Class 1 in English on YouTube](https://www.youtube.com/watch?v=pjc441QKJFE)
+[Class 1 in English on YouTube : Intro to Bootcamp 2020 and Development Setup](https://www.youtube.com/watch?v=pjc441QKJFE)
 
-[Class 1 in Urdu on Facebook](https://www.facebook.com/piaic.main/videos/170952927784660/)
+[Class 1 in Urdu on Facebook : Intro to Bootcamp 2020 and Development Setup](https://www.facebook.com/piaic.main/videos/170952927784660/)
 
-[Class 1 in Urdu on YouTube](https://www.youtube.com/watch?v=OiP7N_ztnik)
+[Class 1 in Urdu on YouTube : Intro to Bootcamp 2020 and Development Setup](https://www.youtube.com/watch?v=OiP7N_ztnik)
 
 
 
-## Class 2: Starting React
+## Class 2: React Components )
 
 Learning material
 
@@ -152,35 +195,35 @@ Learning material
 
 English Videos:
 
-[Class 2 in English on Facebook](https://www.facebook.com/piaic.main/videos/171414181071868/?fref=mentions)
+[Class 2 in English on Facebook : Github Actions And Intro to Learning React Part 1](https://www.facebook.com/piaic.main/videos/171414181071868/?fref=mentions)
 
-[Class 2 in English on YouTube](https://www.youtube.com/watch?v=G25BM3nPk3s)
+[Class 2 in English on YouTube : Github Actions And Intro to Learning React Part 1](https://www.youtube.com/watch?v=G25BM3nPk3s)
 
-[Class 2 in Urdu on Facebook](https://www.facebook.com/piaic.main/videos/171837241029562/)
+[Class 2 in Urdu on Facebook : Github Actions And Intro to Learning React Part 1](https://www.facebook.com/piaic.main/videos/171837241029562/)
 
-[Class 2 in Urdu on YouTube](https://www.youtube.com/watch?v=mEFq3YGiauM)
+[Class 2 in Urdu on YouTube : Github Actions And Intro to Learning React Part 1](https://www.youtube.com/watch?v=mEFq3YGiauM)
 
 
-## Class 3 and 4: Learn React
+## Class 3 and 4: React Props and State Management
 
 [Learn React Tutorial](https://daveceddia.com/react-tutorial/)
 Cover the Tutorial Before Fetching Data
 
-[Class 3 Facebook English Video](https://www.facebook.com/piaic.main/videos/173417630871523)
+[Class 3 Facebook English Video : Learning React Part 2](https://www.facebook.com/piaic.main/videos/173417630871523)
 
-[Class 3 YouTube English Video](https://www.youtube.com/watch?v=AHC-Gas_sok)
+[Class 3 YouTube English Video : Learning React Part 2](https://www.youtube.com/watch?v=AHC-Gas_sok)
 
-[Class 3 Facebook Urdu Video](https://www.facebook.com/piaic.main/videos/173553557524597/)
+[Class 3 Facebook Urdu Video : Learning React Part 2](https://www.facebook.com/piaic.main/videos/173553557524597/)
 
-[Class 3 YouTube Urdu Video](https://www.youtube.com/watch?v=8TQ1i93pRsk)
+[Class 3 YouTube Urdu Video : Learning React Part 2](https://www.youtube.com/watch?v=8TQ1i93pRsk)
 
-[Class 4 Facebook English Video](https://www.facebook.com/piaic.main/videos/174431544103465/)
+[Class 4 Facebook English Video : Learning React Part 3](https://www.facebook.com/piaic.main/videos/174431544103465/)
 
-[Class 4 YouTube English Video](https://www.youtube.com/watch?v=ye0yj5WdXg4)
+[Class 4 YouTube English Video : Learning React Part 3](https://www.youtube.com/watch?v=ye0yj5WdXg4)
 
-[Class 4 Facebook Urdu Video](https://www.facebook.com/piaic.main/videos/174837927396160/)
+[Class 4 Facebook Urdu Video : Learning React Part 3](https://www.facebook.com/piaic.main/videos/174837927396160/)
 
-[Class 4 YouTube Urdu Video](https://www.youtube.com/watch?v=i-DhkVmlgcI)
+[Class 4 YouTube Urdu Video : Learning React Part 3](https://www.youtube.com/watch?v=i-DhkVmlgcI)
 
 
 ## Class 5 and 6: Hooks
@@ -196,13 +239,13 @@ First we will learn the hooks:
 
 [Understanding the React useReducer Hook](https://alligator.io/react/usereducer/)
 
-[Class 5 YouTube English Video](https://www.youtube.com/watch?v=h27ABSn-27g)
+[Class 5 YouTube English Video : Learning React Part 4](https://www.youtube.com/watch?v=h27ABSn-27g)
 
-[Class 5 Facebook English Video](https://www.facebook.com/piaic.main/videos/176007070612579/)
+[Class 5 Facebook English Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176007070612579/)
 
-[Class 5 YouTube Urdu Video](https://www.youtube.com/watch?v=_UUlRvbJPfQ)
+[Class 5 YouTube Urdu Video : Learning React Part 4](https://www.youtube.com/watch?v=_UUlRvbJPfQ)
 
-[Class 5 Facebook Urdu Video](https://www.facebook.com/piaic.main/videos/176512327228720/)
+[Class 5 Facebook Urdu Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176512327228720/)
 
 
 ### Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API
@@ -211,13 +254,13 @@ Follow this Video and build the App: [Expense Tracker](https://www.youtube.com/w
 
 [Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSfnJKOcI5t-IKt7ebmdRgr5llo4PIMXUVMKGAptMjaIeN0Gsg/viewform)
 
-[Class 6 YouTube English Video](https://www.youtube.com/watch?v=q6GmIxnflfM)
+[Class 6 YouTube English Video : Building a React Project](https://www.youtube.com/watch?v=q6GmIxnflfM)
 
-[Class 6 Facebook English Video](https://www.facebook.com/piaic.main/videos/177715090441777/)
+[Class 6 Facebook English Video : Building a React Project](https://www.facebook.com/piaic.main/videos/177715090441777/)
 
-[Class 6 Facebook Urdu Video](https://www.facebook.com/imran82ali/videos/283949636075779/)
+[Class 6 Facebook Urdu Video : Building a React Project](https://www.facebook.com/imran82ali/videos/283949636075779/)
 
-[Class 6 YouTube Urdu Video](https://www.youtube.com/watch?v=dkMba8oK55w)
+[Class 6 YouTube Urdu Video : Building a React Project](https://www.youtube.com/watch?v=dkMba8oK55w)
 
 Expense Tracker App By Adil Altaf
 
@@ -236,13 +279,13 @@ Expense Tracker App By Adil Altaf
 
 [Code for Class 7 English](https://github.com/zeeshanhanif/demo-async-programming)
 
-[Class 7 English Facebook Video](https://web.facebook.com/imran82ali/videos/286047259199350/)
+[Class 7 English Facebook Video : Learning Asynchronous JavaScript](https://web.facebook.com/imran82ali/videos/286047259199350/)
 
-[Class 7 English YouTube Video](https://www.youtube.com/watch?v=xSCo1sPk6mg)
+[Class 7 English YouTube Video : Learning Asynchronous JavaScript](https://www.youtube.com/watch?v=xSCo1sPk6mg)
 
-[Class 7 Urdu YouTube Video](https://www.youtube.com/watch?v=8a1oq_IjCHE)
+[Class 7 Urdu YouTube Video : Learning Asynchronous JavaScript](https://www.youtube.com/watch?v=8a1oq_IjCHE)
 
-[Class 7 Urdu Facebook Video](https://www.facebook.com/imran82ali/videos/286730542464355/)
+[Class 7 Urdu Facebook Video : Learning Asynchronous JavaScript](https://www.facebook.com/imran82ali/videos/286730542464355/)
 
 ## Class 8: Fetch Data
 
@@ -258,13 +301,13 @@ Different Options to get data in React
 
 [Class 8 Code](https://github.com/zeeshanhanif/demo-react-useeffect)
 
-[Class 8 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223639700845447/)
+[Class 8 English Facebook Video : JavaScript Fetch with React](https://www.facebook.com/zeeshanhanif/videos/10223639700845447/)
 
-[Class 8 English YouTube Video](https://www.youtube.com/watch?v=MoTfMsuexhk)
+[Class 8 English YouTube Video : JavaScript Fetch with React](https://www.youtube.com/watch?v=MoTfMsuexhk)
 
-[Class 8 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223652738571382/)
+[Class 8 Urdu Facebook Video : JavaScript Fetch with React](https://www.facebook.com/zeeshanhanif/videos/10223652738571382/)
 
-[Class 8 Urdu YouTube Video](https://www.youtube.com/watch?v=i7iuPKa2A-E)
+[Class 8 Urdu YouTube Video : JavaScript Fetch with React](https://www.youtube.com/watch?v=i7iuPKa2A-E)
 
 Data fetching with React Suspense
 
@@ -302,13 +345,13 @@ Learn Chart.js
 
 [Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
 
-[Class 9 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
+[Class 9 English Facebook Video : Learning Material UI and Chart.JS](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
 
-[Class 9 English YouTube Video](https://www.youtube.com/watch?v=UVd9YQJ8Ge4)
+[Class 9 English YouTube Video : Learning Material UI and Chart.JS](https://www.youtube.com/watch?v=UVd9YQJ8Ge4)
 
-[Class 9 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223699956751807/)
+[Class 9 Urdu Facebook Video : Learning Material UI and Chart.JS](https://www.facebook.com/zeeshanhanif/videos/10223699956751807/)
 
-[Class 9 Urdu YouTube Video](https://www.youtube.com/watch?v=GqRXcnxEZt0)
+[Class 9 Urdu YouTube Video : Learning Material UI and Chart.JS](https://www.youtube.com/watch?v=GqRXcnxEZt0)
 
 
 ### Bootcamp 2020 Project 2: COVID-19 Tracker App
@@ -338,13 +381,13 @@ Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD
 
 Adil Altaf builds the COVID-19 Tracker App
 
-[Class 10 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
+[Class 10 English Facebook Video : Building COVID-19 Tracker App](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
 
-[Class 10 English YouTube Video](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
+[Class 10 English YouTube Video : Building COVID-19 Tracker App](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
 
-[Class 10 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223743572722179/)
+[Class 10 Urdu Facebook Video : Building COVID-19 Tracker App](https://www.facebook.com/zeeshanhanif/videos/10223743572722179/)
 
-[Class 10 Urdu YouTube Video](https://www.youtube.com/watch?v=hbVAt-44G9Y)
+[Class 10 Urdu YouTube Video : Building COVID-19 Tracker App](https://www.youtube.com/watch?v=hbVAt-44G9Y)
 
 ## Class 11 React Router v6
 
@@ -354,13 +397,13 @@ Adil Altaf builds the COVID-19 Tracker App
 
 Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react-router/releases)
 
-[Class 11 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223782839183816/)
+[Class 11 English Facebook Video : Learning Routing With React Router](https://www.facebook.com/zeeshanhanif/videos/10223782839183816/)
 
-[Class 11 English YouTube Video](https://www.youtube.com/watch?v=Bj3u0Jm-Mtg)
+[Class 11 English YouTube Video : Learning Routing With React Router](https://www.youtube.com/watch?v=Bj3u0Jm-Mtg)
 
-[Class 11 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223796154156682/)
+[Class 11 Urdu Facebook Video : Learning Routing With React Router](https://www.facebook.com/zeeshanhanif/videos/10223796154156682/)
 
-[Class 11 Urdu YouTueb Video](https://www.youtube.com/watch?v=IcbIvXY7JCw)
+[Class 11 Urdu YouTueb Video : Learning Routing With React Router](https://www.youtube.com/watch?v=IcbIvXY7JCw)
 
 ### Bootcamp 2020 Project 3: Shoe Store 
 
@@ -390,13 +433,13 @@ Now build a Shoe Store after watching this [video](https://www.youtube.com/watch
 
 [More Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
 
-[Class 12 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223819571102091/)
+[Class 12 English Facebook Video : Learning Web Animation](https://www.facebook.com/zeeshanhanif/videos/10223819571102091/)
 
-[Class 12 English YouTube Video](https://www.youtube.com/watch?v=DhUveECtjG4)
+[Class 12 English YouTube Video : Learning Web Animation](https://www.youtube.com/watch?v=DhUveECtjG4)
 
-[Class 12 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223831524160910/)
+[Class 12 Urdu Facebook Video : Learning Web Animation](https://www.facebook.com/zeeshanhanif/videos/10223831524160910/)
 
-[Class 12 Urdu YouTube Video](https://www.youtube.com/watch?v=PbXYsgtJAMc)
+[Class 12 Urdu YouTube Video : Learning Web Animation](https://www.youtube.com/watch?v=PbXYsgtJAMc)
 
 
 ## Class 13 Web Animations API with React
@@ -407,13 +450,13 @@ We will be using the following React hooks useEffect, useLayoutEffect and [useRe
 
 [Creating Highly-Performant Animations using Web Animations API and React hooks](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf?source=rss)
 
-[Class 13 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223864192297593/)
+[Class 13 English Facebook Video : Web Animation In React](https://www.facebook.com/zeeshanhanif/videos/10223864192297593/)
 
-[Class 13 English YouTube Video](https://www.youtube.com/watch?v=Vi7yRwlE4bg)
+[Class 13 English YouTube Video : Web Animation In React](https://www.youtube.com/watch?v=Vi7yRwlE4bg)
 
-[Class 13 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223876685849924/)
+[Class 13 Urdu Facebook Video : Web Animation In React](https://www.facebook.com/zeeshanhanif/videos/10223876685849924/)
 
-[Class 13 Urdu YouTube Video](https://www.youtube.com/watch?v=BQRBFoYhWgE)
+[Class 13 Urdu YouTube Video : Web Animation In React](https://www.youtube.com/watch?v=BQRBFoYhWgE)
 
 
 
@@ -504,8 +547,7 @@ You may use AI to generate graphics:
 
 [Auto Draw: An AI Experiment](https://www.autodraw.com/)
 
-
-## Class 14, 15 and 16 TypeScript
+## Part II: Programming with TypeScript
 
 Begin by installing [TypeScript 4.0+](https://www.typescriptlang.org/download):
 
@@ -519,25 +561,25 @@ Chapters 1, 2, 3, 4, and 9
 
 Note 1: You can also learn TypeScript 4.0 in detail from this Panacloud [repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
-[Class 14 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
+[Class 14 English Facebook Video : Learning TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
 
-[Class 14 English YouTube Video](https://www.youtube.com/watch?v=dVKnwn44U7w)
+[Class 14 English YouTube Video : Learning TypeScript](https://www.youtube.com/watch?v=dVKnwn44U7w)
 
-[Class 14 Urdu YouTube Video](https://www.youtube.com/watch?v=xMRyGAqnPEU)
+[Class 14 Urdu YouTube Video : Learning TypeScript](https://www.youtube.com/watch?v=xMRyGAqnPEU)
 
-[Class 14 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223906321590799)
+[Class 14 Urdu Facebook Video : Learning TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223906321590799)
 
-[Class 15 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223936688309948/)
+[Class 15 English Facebook Video : Building A React Quiz App In TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223936688309948/)
 
-[Class 15 English YouTube Video](https://www.youtube.com/watch?v=kJGlPhiPUjQ)
+[Class 15 English YouTube Video : Building A React Quiz App In TypeScript](https://www.youtube.com/watch?v=kJGlPhiPUjQ)
 
-[Class 15 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223948565926881/)
+[Class 15 Urdu Facebook Video : Building A React Quiz App In TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223948565926881/)
 
-[Class 15 Urdu YouTube Video](https://www.youtube.com/watch?v=H3tQTv2EPcM)
+[Class 15 Urdu YouTube Video : Building A React Quiz App In TypeScript](https://www.youtube.com/watch?v=H3tQTv2EPcM)
 
-[Class 16 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10223966186247378/)
+[Class 16 English Facebook Video : Building A React Quiz App And TypeScript Part 2](https://www.facebook.com/zeeshanhanif/videos/10223966186247378/)
 
-[Class 16 English YouTube Video](https://www.youtube.com/watch?v=2gYKVaeApzU)
+[Class 16 English YouTube Video : Building A React Quiz App And TypeScript Part 2](https://www.youtube.com/watch?v=2gYKVaeApzU)
 
 [Class 16 Urdu YouTube Video](https://www.youtube.com/watch?v=R94xDXkvBgM)
 
@@ -551,6 +593,7 @@ Note 1: You can also learn TypeScript 4.0 in detail from this Panacloud [repo](h
 
 [You can take help from here also: Your First React Typescript Project: a Todo List App](https://typeofnan.dev/your-first-react-typescript-project-todo-app/)
 
+## Part III: Progressive Web Apps (PWA)
 
 ## Class 17 Progressive Web Apps (PWA) and Offline Availability
 
@@ -584,11 +627,11 @@ Deploy PWA on All App Stores
 
 [How to Build Modern, Offline Apps With Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers)
 
-[Class 17 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224004740651214/)
+[Class 17 English Facebook Video : Learning Progressive Web App](https://www.facebook.com/zeeshanhanif/videos/10224004740651214/)
 
-[Class 17 English YouTube Video](https://www.youtube.com/watch?v=S9Jkb61_gac)
+[Class 17 English YouTube Video : Learning Progressive Web App](https://www.youtube.com/watch?v=S9Jkb61_gac)
 
-[Class 17 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224016274939564/)
+[Class 17 Urdu Facebook Video ](https://www.facebook.com/zeeshanhanif/videos/10224016274939564/)
 
 [Class 17 Urdu Facebook Video](https://www.youtube.com/watch?v=N5JHz6TvGnM)
 
@@ -596,9 +639,9 @@ Deploy PWA on All App Stores
 
 [Firebase Push Notifications in React](https://www.smashingmagazine.com/2020/06/firebase-push-notifications-react/)
 
-[Class 18 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224036506845349/)
+[Class 18 English Facebook Video : Progressive Web App And Push Notification](https://www.facebook.com/zeeshanhanif/videos/10224036506845349/)
 
-[Class 18 English YouTube Video](https://www.youtube.com/watch?v=4MwPXLcMRns)
+[Class 18 English YouTube Video : Progressive Web App And Push Notification](https://www.youtube.com/watch?v=4MwPXLcMRns)
 
 [Class 18 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224047034148525/)
 
@@ -614,7 +657,7 @@ Reference:
 
 
 
-## Class 19 and 20 How to Test React Components in TypeScript
+## Part IV: Testing React in TypeScript
 
 [You Can't Do CI/CD Without Automated Testing](https://dzone.com/articles/you-cant-do-cicd-without-automated-testing)
 
@@ -630,9 +673,9 @@ Reference:
 
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
-[Class 19 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224107545941282/)
+[Class 19 English Facebook Video : Learning Test Driven Development](https://www.facebook.com/zeeshanhanif/videos/10224107545941282/)
 
-[Class 19 English YouTube Video](https://www.youtube.com/watch?v=gYYcGCpPA7g)
+[Class 19 English YouTube Video : Learning Test Driven Development](https://www.youtube.com/watch?v=gYYcGCpPA7g)
 
 [Class 19 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224118327250808/)
 
@@ -651,17 +694,17 @@ Note 1: While Building the CI/CD pipeline make sure the app passes all the autom
 
 Note 2: In the Toptal article above they donot use TypeScipt, but you are required to do so.
 
-[Class 20 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224150277569546/)
+[Class 20 English Facebook Video : Building a React Timer App](https://www.facebook.com/zeeshanhanif/videos/10224150277569546/)
 
-[Class 20 English YouTube Video](https://www.youtube.com/watch?v=xsf_NhEkQII)
+[Class 20 English YouTube Video : Building a React Timer App](https://www.youtube.com/watch?v=xsf_NhEkQII)
 
-[Class 20 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224162457554038/)
+[Class 20 Urdu Facebook Video : Building a React Timer App](https://www.facebook.com/zeeshanhanif/videos/10224162457554038/)
 
-[Class 20 Urdu YouTube Video](https://www.youtube.com/watch?v=VxDXySbiqhY)
+[Class 20 Urdu YouTube Video : Building a React Timer App](https://www.youtube.com/watch?v=VxDXySbiqhY)
 
 
 
-## Class 21, 22, and 23 Client Side GraphQL in React Apps
+## Part V: Client Side GraphQL in React Apps
 
 Introduction to GraphQL:
 
@@ -718,17 +761,17 @@ TypeScript Code Generator:
 
 [How to configure GraphQL-Codegen and React Apollo Client to do work for you](https://medium.com/swlh/how-to-configure-react-apollo-client-and-graphql-codegen-to-do-work-for-you-ecb305d983aa)
 
-[Class 21 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224181188222293/)
+[Class 21 English Facebook Video : Learning GraphQL Part 1 And Using Apollo Client With React](https://www.facebook.com/zeeshanhanif/videos/10224181188222293/)
 
-[Class 21 English YouTube Video](https://www.youtube.com/watch?v=T_kLAkmxUi4)
+[Class 21 English YouTube Video : Learning GraphQL Part 1 And Using Apollo Client With React](https://www.youtube.com/watch?v=T_kLAkmxUi4)
 
 [Class 21 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224191488999806/)
 
 [Class 21 Urdu YouTube Video](https://www.youtube.com/watch?v=DETgbc4P2AM)
 
-[Class 22 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224218669319297/)
+[Class 22 English Facebook Video : Learning GraphQL Part 2](https://www.facebook.com/zeeshanhanif/videos/10224218669319297/)
 
-[Class 22 English YouTube Video](https://www.youtube.com/watch?v=81d1-zldsoQ)
+[Class 22 English YouTube Video : Learning GraphQL Part 2](https://www.youtube.com/watch?v=81d1-zldsoQ)
 
 [Class 22 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224230984267163/)
 
@@ -749,9 +792,9 @@ You are required to build your own App not just copy the Demo Apps.
 
 Note: You can generate the TypeScript code automatically by using the Code Generator.
 
-[Class 23 English Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/)
+[Class 23 English Facebook Video : Building A project With React, TypeScript And GraphQL](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/)
 
-[Class 23 English YouTube Video](https://www.youtube.com/watch?v=gavh9cTxGWI)
+[Class 23 English YouTube Video : Building A project With React, TypeScript And GraphQL](https://www.youtube.com/watch?v=gavh9cTxGWI)
 
 [Class 23 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224260317480475/)
 
@@ -759,7 +802,7 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 
 
-## Class 24, 25, and 26 Managing State with Redux Toolkit and Building API Mocking Servers with Mirage
+## Part VI: Managing State with Redux
 
 [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 
@@ -775,9 +818,9 @@ Learn Redux Toolkit
 
 [Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
-[Class 24 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224286453093849/)
+[Class 24 in English on Facebook : Learning Redux](https://www.facebook.com/zeeshanhanif/videos/10224286453093849/)
 
-[Class 24 in English on YouTube](https://www.youtube.com/watch?v=OO0lhveAZks)
+[Class 24 in English on YouTube : Learning Redux](https://www.youtube.com/watch?v=OO0lhveAZks)
 
 [Redux Presentation by Aamir](https://docs.google.com/presentation/d/1AYPOmQ-5PgoCnasjZ3qMo_LCHp2jo0kxFlLHnP2dkaA/)
 
@@ -787,11 +830,13 @@ Learn Redux Toolkit
 
 [Intermediate Tutorial: Redux Toolkit in Action](https://redux-toolkit.js.org/tutorials/intermediate-tutorial)
 
+## Part VII: API Mocking Servers with Mirage
+
 [Mirage Tutorial](https://miragejs.com/tutorial/intro/)
 
-[Class 25 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224313589932253/)
+[Class 25 in English on Facebook : Learning Redux ToolKit And Mirage Mocking Server](https://www.facebook.com/zeeshanhanif/videos/10224313589932253/)
 
-[Class 25 in English on YouTube](https://www.youtube.com/watch?v=cZ5_x0BcJdQ)
+[Class 25 in English on YouTube : Learning Redux ToolKit And Mirage Mocking Server](https://www.youtube.com/watch?v=cZ5_x0BcJdQ)
 
 [Class 25 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224323086249655/)
 
@@ -801,9 +846,9 @@ Learn Redux Toolkit
 
 [Zeeshan's Code for Thunk](https://github.com/zeeshanhanif/redux-toolkit-async)
 
-[Class 26 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224378742081016/)
+[Class 26 in English on Facebook : Learning Redux Async Thunk](https://www.facebook.com/zeeshanhanif/videos/10224378742081016/)
 
-[Class 26 in English on YouTube](https://www.youtube.com/watch?v=NxnELWEdh1s)
+[Class 26 in English on YouTube : Learning Redux Async Thunk](https://www.youtube.com/watch?v=NxnELWEdh1s)
 
 [Class 26 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224388032073260/)
 
@@ -835,7 +880,7 @@ This Project is very important because up to now we have been doing small projec
 
 
 
-## Class 27 and 28 Forms with Formik and Yup
+## Part VIII: Forms with Formik and Yup
 
 [Easy forms with Formik - part I](https://softchris.github.io/books/react/formik-partI/)
 
@@ -853,17 +898,17 @@ This Project is very important because up to now we have been doing small projec
 
 [Zeeshan's Formik Repo](https://github.com/zeeshanhanif/react-formik)
 
-[Class 27 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224414911585231/)
+[Class 27 in English on Facebook: Learning React Formik And Yup Part 1](https://www.facebook.com/zeeshanhanif/videos/10224414911585231/)
 
-[Class 27 in English on YouTube](https://www.youtube.com/watch?v=v09HCJpOspE)
+[Class 27 in English on YouTube : Learning React Formik And Yup Part 1](https://www.youtube.com/watch?v=v09HCJpOspE)
 
 [Class 27 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224423714485298/)
 
 [Class 27 in Urdu on YouTube](https://www.youtube.com/watch?v=rwEUvkA9a7g)
 
-[Class 28 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224443277214354/)
+[Class 28 in English on Facebook : Learning React Formik And Yup Part 2](https://www.facebook.com/zeeshanhanif/videos/10224443277214354/)
 
-[Class 28 in Engish on YouTube](https://www.youtube.com/watch?v=wi7a9TqQt7E)
+[Class 28 in Engish on YouTube : Learning React Formik And Yup Part 2](https://www.youtube.com/watch?v=wi7a9TqQt7E)
 
 [Class 28 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224452812932741/)
 
@@ -878,7 +923,7 @@ This Project is very important because up to now we have been doing small projec
 
 
 
-## Class 29 and 30 React Component Driven Development with Storybook and Bit
+## Part IX: Component Driven Development with Storybook and Bit
 
 Component Driven Development (CDD)
 
@@ -903,9 +948,9 @@ Storybook 6
 
 [Reference Learning Material](https://www.learnstorybook.com/intro-to-storybook/)
 
-[Class 29 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224477793477239/)
+[Class 29 in English on Facebook : Learning Component Driven Development Part 1 With Storybook](https://www.facebook.com/zeeshanhanif/videos/10224477793477239/)
 
-[Class 29 in English on YouTube](https://www.youtube.com/watch?v=ors4hsRJ8uM)
+[Class 29 in English on YouTube : Learning Component Driven Development Part 1 With Storybook](https://www.youtube.com/watch?v=ors4hsRJ8uM)
 
 [Class 29 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224486726500559/)
 
@@ -928,9 +973,9 @@ Design Systems for Developers
 [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
 
-[Class 30 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224504982876957/)
+[Class 30 in English on Facebook : Learning Component Driven Development Part 2 With Bit And Design System](https://www.facebook.com/zeeshanhanif/videos/10224504982876957/)
 
-[Class 30 in English on YouTube](https://www.youtube.com/watch?v=QcKLURv-npc)
+[Class 30 in English on YouTube: Learning Component Driven Development Part 2 With Bit And Design System](https://www.youtube.com/watch?v=QcKLURv-npc)
 
 [Class 30 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224514496194784/)
 
@@ -944,71 +989,71 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 [Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
 
 
-## Class 31 to 41 Learn JAMstack Serverless and Headless CMS
+## Part X: JAMstack Serverless and Headless CMS
 
 [Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
 
 [Our JAMstack Textbook for Bootcamp 2020 Read Chapter 1](https://www.apress.com/gp/book/9781484261767)
 
-[Class 31 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
+[Class 31 in English on Facebook : Learning Modern Application Development With JAMStack Serverless](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
 
-[Class 31 in English on YouTube](https://www.youtube.com/watch?v=deNpUAzAEH0)
+[Class 31 in English on YouTube : Learning Modern Application Development With JAMStack Serverless](https://www.youtube.com/watch?v=deNpUAzAEH0)
 
 [Class 31 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224546245988509/)
 
 [Class 31 in Urdu on YouTube](https://www.youtube.com/watch?v=sP2Amlw44fk)
 
-[Class 32 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224565563991447/)
+[Class 32 in English on Facebook : Learning JAMStack Serverless - Gatsby Part 1](https://www.facebook.com/zeeshanhanif/videos/10224565563991447/)
 
-[Class 32 in English on YouTube](https://www.youtube.com/watch?v=UP3-m4QigN4)
+[Class 32 in English on YouTube : Learning JAMStack Serverless - Gatsby Part 1](https://www.youtube.com/watch?v=UP3-m4QigN4)
 
 [Class 32 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224572927375527)
 
 [Class 32 in Urdu on YouTube](https://www.youtube.com/watch?v=r-G-i5spHGg)
 
-[Class 33 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224601577451761/)
+[Class 33 in English on Facebook :Learning JAMStack Serverless - Gatsby Part 2](https://www.facebook.com/zeeshanhanif/videos/10224601577451761/)
 
-[Class 33 in English on YouTube](https://www.youtube.com/watch?v=21dnsmxRRYM)
+[Class 33 in English on YouTube :Learning JAMStack Serverless - Gatsby Part 2](https://www.youtube.com/watch?v=21dnsmxRRYM)
 
 [Class 33 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224605671834118)
 
 [Class 33 in Urdu on YouTube](https://www.youtube.com/watch?v=rdcqnWJK2Mk)
 
-[Class 34 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224621671314095/)
+[Class 34 in English on Facebook : Learning JAMStack Serverless - Gatsby With Cntentful](https://www.facebook.com/zeeshanhanif/videos/10224621671314095/)
 
-[Class 34 in English on YouTube](https://www.youtube.com/watch?v=5bjdsQ95Z44)
+[Class 34 in English on YouTube : Learning JAMStack Serverless - Gatsby With Cntentful](https://www.youtube.com/watch?v=5bjdsQ95Z44)
 
 [Class 34 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224632582426866/)
 
 [Class 34 in Urdu on YouTube](https://www.youtube.com/watch?v=Q-QiqHBKQjQ)
 
-[Class 35 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
+[Class 35 in English on Facebook : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
 
-[Class 35 in English on YouTube](https://www.youtube.com/watch?v=8PxEZjYUKpc)
+[Class 35 in English on YouTube : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1](https://www.youtube.com/watch?v=8PxEZjYUKpc)
 
 [Class 35 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224666332310592/)
 
 [Class 35 in Urdu on YouTube](https://www.youtube.com/watch?v=uMDyvor_k9k)
 
-[Class 36 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
+[Class 36 in English on Facebook : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And Intro to FaunaDB NoSQL database](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
 
-[Class 36 in English on YouTube](https://www.youtube.com/watch?v=URXA_2HV61s)
+[Class 36 in English on YouTube : Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And Intro to FaunaDB NoSQL database](https://www.youtube.com/watch?v=URXA_2HV61s)
 
 [Class 36 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224690706039920/)
 
 [Class 36 in Urdu on YouTube](https://www.youtube.com/watch?v=ysEQiXY9ozM)
 
-[Class 37 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224715900029754/)
+[Class 37 in English on Facebook : Learning JAMStack Serverless - Gatsby, Netlify Serverless Functions And FaunaDB](https://www.facebook.com/zeeshanhanif/videos/10224715900029754/)
 
-[Class 37 in English on YouTube](https://www.youtube.com/watch?v=3B_vkzD0kRI)
+[Class 37 in English on YouTube : Learning JAMStack Serverless - Gatsby, Netlify Serverless Functions And FaunaDB](https://www.youtube.com/watch?v=3B_vkzD0kRI)
 
 [Class 37 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224726664858868/)
 
 [Class 37 in Urdu on YouTube](https://www.youtube.com/watch?v=2mb2IFVL4Jw)
 
-[Class 38 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224741314065089/)
+[Class 38 in English on Facebook : Learning JAMStack Serverless - Gatsby, GraphQL, Netlify Serverless Functions And FaunaDB](https://www.facebook.com/zeeshanhanif/videos/10224741314065089/)
 
-[Class 38 in English on YouTube](https://www.youtube.com/watch?v=ZXzxL4LDQs4)
+[Class 38 in English on YouTube : Learning JAMStack Serverless - Gatsby, GraphQL, Netlify Serverless Functions And FaunaDB](https://www.youtube.com/watch?v=ZXzxL4LDQs4)
 
 [Class 38 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224750968586446/)
 
@@ -1111,77 +1156,77 @@ Note: In the above article the project is done using 11ty however you are requir
 ### All Bootcamp 2020 participants who have completed 12 projects and want to work with Panacloud, please send a Whatsapp message to Zia Khan at 92-300-826-3374 after completing 12 projects.
 
 
-## Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
+## Part XI: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
 
 [JAMstack Ecommerce Learning Project Repo (Ecommerce Projects 00 - 06)](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
 
-[Class 42 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224856174736534/)
+[Class 42 in English on Facebook: Intro To Ecommerce](https://www.facebook.com/zeeshanhanif/videos/10224856174736534/)
 
-[Class 42 in English on YouTube](https://www.youtube.com/watch?v=u3KOcuxvb5w)
+[Class 42 in English on YouTube : Intro To Ecommerce](https://www.youtube.com/watch?v=u3KOcuxvb5w)
 
 [Class 42 in Urdu on facebook](https://www.facebook.com/zeeshanhanif/videos/10224865871098937/)
 
 [Class 42 in Urdu on YouTube](https://www.youtube.com/watch?v=c11-JmxKJfc) 
 
-[Class 43 Building Project 00 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224888744070747/)
+[Class 43 Building Project 00 Video in English on Facebook: Payment Gateway Using Stripe Checkout With Gatsby](https://www.facebook.com/zeeshanhanif/videos/10224888744070747/)
 
-[Class 43 Building Project 00 Video in English on YouTube](https://www.youtube.com/watch?v=cextuS_GgVI)
+[Class 43 Building Project 00 Video in English on YouTube : Payment Gateway Using Stripe Checkout With Gatsby](https://www.youtube.com/watch?v=cextuS_GgVI)
 
 [Class 43 Building Project 00 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224899533580478/)
 
 [Class 43 Building Project 00 Video in Urdu on YouTube](https://www.youtube.com/watch?v=Jhg8URgZH-s)
 
-[Class 44 Building Project 01 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224918482854198/)
+[Class 44 Building Project 01 Video in English on Facebook : Payment Gateway Using Stripe API With Gatsby](https://www.facebook.com/zeeshanhanif/videos/10224918482854198/)
 
-[Class 44 Building Project 01 Video in English on YouTube](https://www.youtube.com/watch?v=tamOJxju7fg)
+[Class 44 Building Project 01 Video in English on YouTube : Payment Gateway Using Stripe API With Gatsby](https://www.youtube.com/watch?v=tamOJxju7fg)
 
 [Class 44 Building Project 01 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224927228272828/)
 
 [Class 44 Building Project 01 Video in Urdu on YouTube](https://www.youtube.com/watch?v=vzeLykEV87w)
 
-[Class 45 Buidling Project 02 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224954863883701/)
+[Class 45 Buidling Project 02 Video in English on Facebook : Building Shopping Cart using Snapcart ](https://www.facebook.com/zeeshanhanif/videos/10224954863883701/)
 
-[Class 45 Buidling Project 02 Video in English on YouTube](https://www.youtube.com/watch?v=0APfFRm2hK8)
+[Class 45 Buidling Project 02 Video in English on YouTube  : Building Shopping Cart using Snapcart ](https://www.youtube.com/watch?v=0APfFRm2hK8)
 
 [Class 45 Building Project 02 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224961217042526/)
 
 [Class 45 Building Project 02 Video in Urdu on YouTube](https://www.youtube.com/watch?v=vzeLykEV87w&t=6s)
 
-[Class 46 Buiding Project 03 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224984117135014/)
+[Class 46 Buiding Project 03 Video in English on Facebook : USE-SHOPPING-CART Open Source Shopping Cart](https://www.facebook.com/zeeshanhanif/videos/10224984117135014/)
 
-[Class 46 Building Project 03 Video in English on YouTube](https://www.youtube.com/watch?v=tYGlZI4OPIs)
+[Class 46 Building Project 03 Video in English on YouTube : USE-SHOPPING-CART Open Source Shopping Cart](https://www.youtube.com/watch?v=tYGlZI4OPIs)
 
 [Class 46 Building Project 03 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224993742615645/)
 
 [Class 46 Building Project 03 Video in Urdu on YouTube](https://www.youtube.com/watch?v=gsfKhhB9_0M)
 
-[Class 47 Building Project 04 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225017709934813/)
+[Class 47 Building Project 04 Video in English on Facebook : Headless Ecommerce With Shopify And Gatsby Part 1](https://www.facebook.com/zeeshanhanif/videos/10225017709934813/)
 
-[Class 47 Building Project 04 Video in English on YouTube](https://www.youtube.com/watch?v=Unz_REIRjpg)
+[Class 47 Building Project 04 Video in English on YouTube : Headless Ecommerce With Shopify And Gatsby Part 1](https://www.youtube.com/watch?v=Unz_REIRjpg)
 
 [Class 47 Building Project 04 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225025711294842/)
 
 [Class 47 Building Project 04 Video in Urdu on YouTube](https://www.youtube.com/watch?v=tNcpbyt0a6g)
 
-[Class 48 Building Project 04 Part 2 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225072595506918)
+[Class 48 Building Project 04 Part 2 Video in English on Facebook : Headless Ecommerce With Shopify And Gatsby Part 2](https://www.facebook.com/zeeshanhanif/videos/10225072595506918)
 
-[Class 48 Building Project 04 Part 2 Video in English on YouTube](https://www.youtube.com/watch?v=Qn16dqu7jKc)
+[Class 48 Building Project 04 Part 2 Video in English on YouTube : Headless Ecommerce With Shopify And Gatsby Part 2](https://www.youtube.com/watch?v=Qn16dqu7jKc)
 
 [Class 48 Building Project 04 Part 2 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225081196721943)
 
 [Class 48 Building Project 04 Part 2 Video in Urdu on YouTube](https://www.youtube.com/watch?v=mz2ChgziBBk)
 
-[Class 49 Building Project 04 Part 3 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225098638837985)
+[Class 49 Building Project 04 Part 3 Video in English on Facebook : Headless Ecommerce With Shopify And Gatsby Part 3](https://www.facebook.com/zeeshanhanif/videos/10225098638837985)
 
-[Class 49 Building Project 04 Part 3 Video in English on YouTube](https://www.youtube.com/watch?v=xeAw__ofxtc)
+[Class 49 Building Project 04 Part 3 Video in English on YouTube : Headless Ecommerce With Shopify And Gatsby Part 3](https://www.youtube.com/watch?v=xeAw__ofxtc)
 
 [Class 49 Building Project 04 Part 3 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225107438537972)
 
 [Class 49 Building Project 04 Part 3 Video in Urdu on YouTube](https://www.youtube.com/watch?v=-grjtMNprWI)
 
-[Class 50 Building Project 05 and 06 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225129468128698)
+[Class 50 Building Project 05 and 06 Video in English on Facebook : Payment Gateway Using 2Checkout and PayFast](https://www.facebook.com/zeeshanhanif/videos/10225129468128698)
 
-[Class 50 Building Project 05 and 06 Video in English on YouTube](https://www.youtube.com/watch?v=dKHANO9U6IU)
+[Class 50 Building Project 05 and 06 Video in English on YouTube : Payment Gateway Using 2Checkout and PayFast](https://www.youtube.com/watch?v=dKHANO9U6IU)
 
 [Class 50 Building Project 05 and 06 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225139989951737)
 
@@ -1192,182 +1237,280 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
-## Class 51-60: Serverless SaaS Apps and APIs
+## Part XII: Full Stack Serverless with AWS Cloud Development Kit - CDK
 
 Get AWS Account
-
-[GitHub Student Pack](https://education.github.com/pack)
 
 [AWS Free Tier](https://aws.amazon.com/free/)
 
 Note: For AWS Free Tier you will need a credit or debit card. The easiest way for Pakistani students is to open a bank account in Meezan Bank. Open a Meezan Aasan Account if you have no earning proof. Meezan Bank will charge Rs. 1100 for ATM Debit Card and there is a requirement of Rs. 100 minimum deposit. The card will be delivered in a few weeks. Our students have reported that this Debit card works with AWS.
 
-## Full Stack Serverless with Cloud Development Kit
-
-[Learning Full Stack Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
-
-Now we will read this latest Infrastructure as Code book will take you beyond the CDK commands to the design patterns behind good practices and the how-to’s of next-level cloud automation:
-
-[Infrastructure as Code Book, 2nd Edition by Kief Morris](https://us-east-1.linodeobjects.com/marketing-assets/Infrastructure_as_Code_2E-ER_Linode.pdf?fbclid=IwAR2gBUMGMgXBG-AQkfXaYgCLsXxcD8aD9D_R6IOpOgY1mJ2Xzt83WyNTQVo)
-
-[Learning Serverless Solution and Architecture Patterns with CDK Repo](https://github.com/panacloud-modern-global-apps/serverless-solutions-patterns-cdk)
-
-[Learning Serverless SaaS Repo](https://github.com/panacloud-modern-global-apps/serverless-saas)
-
-
 Base Technology Stack:
 1.	Frontend: React with Typescipt and Storybook
 2.	Infrastructure As Code and Automation Tools: AWS CDK
-3.	Integration: AWS EventBridge and Google Eventarc
+3.	Integration: AWS EventBridge
 4.	Computing: AWS Lambda
 5.	Programing Language: TypeScript
 6.	Orchestration: AWS Step Functions
 7.	CDN: Amazon CloudFront 
 8.	Static Content: Amazon S3
 9.	API Front End: GraphQL using AWS AppSync
-10.	Database: AWS DynamoDB and FaunaDB
-11.	Container Management: Google Cloud Run
-12.	Observability: AWS X-Ray and Thundra
+10.	Database: AWS DynamoDB, AWS Arora Serverless, and AWS Neptune
+11.	Container Management: Fargate
+12.	Observability: AWS X-Ray
 13.	IDE: VS Code
-14.	Ecommerce Stack: Shopify, Stripe, and 2Checkout
-15.	 CI/CD: CDK pipelines
-16.	Version Control: GitHub
+14.	CI/CD: Github Actions
+15.	Version Control: GitHub
 
-[Class 51 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225155745305611)
+[Learning Full Stack Serverless with CDK Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
 
-[Class 51 Video in English on YouTube](https://www.youtube.com/watch?v=bnTCwunqhMc)
+[Class 51 Video in English on Facebook : Intro to AWS Technologies With Cloud Development Kit (CDK)](https://www.facebook.com/zeeshanhanif/videos/10225155745305611)
+
+[Class 51 Video in English on YouTube : Intro to AWS Technologies With Cloud Development Kit (CDK)](https://www.youtube.com/watch?v=bnTCwunqhMc)
 
 [Class 51 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225164884934096)
 
 [Class 51 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JhFiu-krGZI)
 
-[Class 52 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225191381716499)
+[Class 52 Video in English on Facebook : Project Setup And Stack Deployment With S3 Bucket](https://www.facebook.com/zeeshanhanif/videos/10225191381716499)
 
-[Class 52 Video in English on YouTube](https://www.youtube.com/watch?v=UpuVx8c0-lA)
+[Class 52 Video in English on YouTube : Project Setup And Stack Deployment With S3 Bucket](https://www.youtube.com/watch?v=UpuVx8c0-lA)
 
 [Class 52 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225203759985948)
 
 [Class 52 Video in Urdu on YouTube](https://www.youtube.com/watch?v=xWF-LCTnSy4)
 
-[Class 53 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225216995316823)
+[Class 53 Video in English on Facebook : Deploying Serverless Lambda Function And Website Deployment With Cloudfront](https://www.facebook.com/zeeshanhanif/videos/10225216995316823)
 
-[Class 53 Video in English on YouTube](https://www.youtube.com/watch?v=JpLNn3_GbIc)
+[Class 53 Video in English on YouTube : Deploying Serverless Lambda Function And Website Deployment With Cloudfront](https://www.youtube.com/watch?v=JpLNn3_GbIc)
 
 [Class 53 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225226138185389)
 
 [Class 53 Video in Urdu on YouTube](https://www.youtube.com/watch?v=IJBowlCR7fk)
 
-[Class 54 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225249824337528)
+[Class 54 Video in English on Facebook : QraphQL API with AWS AppSync](https://www.facebook.com/zeeshanhanif/videos/10225249824337528)
 
-[Class 54 Video in English on YouTube](https://www.youtube.com/watch?v=iJj32I9A_Nc)
+[Class 54 Video in English on YouTube : QraphQL API with AWS AppSync](https://www.youtube.com/watch?v=iJj32I9A_Nc)
 
 [Class 54 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225258717359848)
 
 [Class 54 Video in Urdu on YouTube](https://www.youtube.com/watch?v=mzl8tQzygOA)
 
-[Class 55 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225276797051829)
+[Class 55 Video in English on Facebook : AWS AppSync And AWS DynamoDB](https://www.facebook.com/zeeshanhanif/videos/10225276797051829)
 
-[Class 55 Video in English on YouTube](https://www.youtube.com/watch?v=lbkrSIM_x_Y)
+[Class 55 Video in English on YouTube : AWS AppSync And AWS DynamoDB](https://www.youtube.com/watch?v=lbkrSIM_x_Y)
 
 [Class 55 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225286889784141)
 
 [Class 55 Video in Urdu on YouTube](https://www.youtube.com/watch?v=FVHkJRo4TdI)
 
-[Class 56 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225312535665272)
+[Class 56 Video in English on Facebook : AWS Amplify And AWS Appsync ](https://www.facebook.com/zeeshanhanif/videos/10225312535665272)
 
-[Class 56 Video in English on YouTube](https://www.youtube.com/watch?v=6hBaplgwE8s)
+[Class 56 Video in English on YouTube : AWS Amplify And AWS Appsync](https://www.youtube.com/watch?v=6hBaplgwE8s)
 
 [Class 56 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225319812407186)
 
 [Class 56 Video in Urdu on YouTube](https://www.youtube.com/watch?v=paHnI88zXSQ)
 
-[Class 57 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225337767976064)
+[Class 57 Video in English on Facebook : AWS AppSync With DynamoDB As A Datasource](https://www.facebook.com/zeeshanhanif/videos/10225337767976064)
 
-[Class 57 Video in English on YouTube](https://www.youtube.com/watch?v=DkMpDT-gsMk)
+[Class 57 Video in English on YouTube : AWS AppSync With DynamoDB As A Datasource](https://www.youtube.com/watch?v=DkMpDT-gsMk)
 
 [Class 57 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225347091729152)
 
 [Class 57 Video in Urdu on YouTube](https://www.youtube.com/watch?v=lpKaoZ4yAiE)
 
-[Class 58 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225372583806438)
+[Class 58 Video in English on Facebook : AWS Cognito Part 1](https://www.facebook.com/zeeshanhanif/videos/10225372583806438)
 
-[Class 58 Video in English on YouTube](https://www.youtube.com/watch?v=vC33wJ6DfjQ)
+[Class 58 Video in English on YouTube : AWS Cognito Part 1](https://www.youtube.com/watch?v=vC33wJ6DfjQ)
 
 [Class 58 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225381665553476)
 
 [Class 58 Video in Urdu on YouTube](https://www.youtube.com/watch?v=BXIWIUkl2tM)
 
-[Class 59 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225399426157480)
+[Class 59 Video in English on Facebook : AWS Cognito Part 2](https://www.facebook.com/zeeshanhanif/videos/10225399426157480)
 
-[Class 59 Video in English on YouTube](https://www.youtube.com/watch?v=2y0QrhvRMew)
+[Class 59 Video in English on YouTube : AWS Cognito Part 2](https://www.youtube.com/watch?v=2y0QrhvRMew)
 
 [Class 59 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225407400396831)
 
 [Class 59 Video in Urdu on YouTube](https://www.youtube.com/watch?v=Qdk95pExTaY)
 
-[Class 60 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225434631997604)
+[Class 60 Video in English on Facebook : AWS IAM Policies And Secret Manager Part 1](https://www.facebook.com/zeeshanhanif/videos/10225434631997604)
 
-[Class 60 Video in English on YouTube](https://www.youtube.com/watch?v=geV-TV7kTgE)
+[Class 60 Video in English on YouTube : AWS IAM Policies And Secret Manager Part 1](https://www.youtube.com/watch?v=geV-TV7kTgE)
 
 [Class 60 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225444019552287)
 
 [Class 60 Video in Urdu on YouTube](https://www.youtube.com/watch?v=AHam583oT7c)
 
-[Class 61 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225464556865707)
+[Class 61 Video in English on Facebook : AWS Secret Manager Part 2](https://www.facebook.com/zeeshanhanif/videos/10225464556865707)
 
-[Class 61 Video in English on YouTube](https://www.youtube.com/watch?v=J7C5nHmUDD4)
+[Class 61 Video in English on YouTube : AWS Secret Manager Part 2](https://www.youtube.com/watch?v=J7C5nHmUDD4)
 
 [Class 61 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225474211267061)
 
 [Class 61 Video in Urdu on YouTube](https://www.youtube.com/watch?v=9t_mhAn108Q)
 
-[Class 62 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225509036897680)
+[Class 62 Video in English on Facebook : AWS CI/CD Pipeline](https://www.facebook.com/zeeshanhanif/videos/10225509036897680)
 
-[Class 62 Video in English on YouTube](https://www.youtube.com/watch?v=7IwnB6yT0lU)
+[Class 62 Video in English on YouTube : AWS CI/CD Pipeline](https://www.youtube.com/watch?v=7IwnB6yT0lU)
 
 [Class 62 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225524262878320)
 
 [Class 62 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JTDRS1u3924)
 
-[Class 63 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225545010436996)
+[Class 63 Video in English on Facebook : AWS EventBridge ](https://www.facebook.com/zeeshanhanif/videos/10225545010436996)
 
-[Class 63 Video in English on YouTube](https://www.youtube.com/watch?v=jrUDwrgBCqg)
+[Class 63 Video in English on YouTube : AWS EventBridge ](https://www.youtube.com/watch?v=jrUDwrgBCqg)
 
 [Class 63 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225564742050274)
 
 [Class 63 Video in Urdu on YouTube](https://www.youtube.com/watch?v=1y4REyORf1U)
 
-[Class 64 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225576641907763)
+[Class 64 Video in English on Facebook : AWS Simple Email Service](https://www.facebook.com/zeeshanhanif/videos/10225576641907763)
 
-[Class 64 Video in English on YouTube](https://www.youtube.com/watch?v=CPFYfPbSTUo)
+[Class 64 Video in English on YouTube : AWS Simple Email Service](https://www.youtube.com/watch?v=CPFYfPbSTUo)
 
 [Class 64 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225585267523398)
 
 [Class 64 Video in Urdu on YouTube](https://www.youtube.com/watch?v=jnym0CaBgkk)
 
-[Class 65 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225602951765493)
+[Class 65 Video in English on Facebook : AWS Simple Notification Service and Simple Queue Service](https://www.facebook.com/zeeshanhanif/videos/10225602951765493)
 
-[Class 65 Video in English on YouTube](https://www.youtube.com/watch?v=pHTtY_o-WO0)
+[Class 65 Video in English on YouTube : AWS Simple Notification Service and Simple Queue Service](https://www.youtube.com/watch?v=pHTtY_o-WO0)
 
 [Class 65 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225612202036744)
 
 [Class 65 Video in Urdu on YouTube](https://www.youtube.com/watch?v=BHDnDA1rzZY)
 
-[Class 66 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225636344840299)
+[Class 66 Video in English on Facebook : AWS Pinpoint ](https://www.facebook.com/zeeshanhanif/videos/10225636344840299)
 
-[Class 66 Video in English on YouTube](https://www.youtube.com/watch?v=C46KqvvImnA)
+[Class 66 Video in English on YouTube : AWS Pinpoint ](https://www.youtube.com/watch?v=C46KqvvImnA)
 
 [Class 66 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225650154145523)
 
 [Class 66 Video in Urdu on YouTube](https://www.youtube.com/watch?v=MHgNzf2OAPc)
 
-[Class 67 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225683635182528)
+[Class 67 Video in English on Facebook : AWS Step Functions ](https://www.facebook.com/zeeshanhanif/videos/10225683635182528)
 
-[Class 67 Video in English on YouTube](https://www.youtube.com/watch?v=0gk3dYhwuJc)
+[Class 67 Video in English on YouTube : AWS Step Functions ](https://www.youtube.com/watch?v=0gk3dYhwuJc)
 
 [Class 67 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225695152750460)
 
 [Class 67 Video in Urdu on YouTube](https://www.youtube.com/watch?v=EQT1nJiSHNI)
+
+[Class 68 Video in English on Facebook : AWS Cloud Watch ](https://www.facebook.com/zeeshanhanif/videos/10225731558780588)
+
+[Class 68 Video in English on YouTube : AWS Cloud Watch ](https://www.youtube.com/watch?v=R5ChiA-o5QY)
+
+[Class 68 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225741135820008)
+
+[Class 68 Video in Urdu on YouTube](https://www.youtube.com/watch?v=c7hJn9KxqDE)
+
+[Class 69 Video in English on Facebook : AWS Timestream DB and Visualization with Grafana ](https://www.facebook.com/zeeshanhanif/videos/10225763251372883)
+
+[Class 69 Video in English on YouTube : AWS Timestream DB and Visualization with Grafana ](https://www.youtube.com/watch?v=6kwKtE8d9dc)
+
+[Class 69 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225811165650710)
+
+[Class 69 Video in Urdu on YouTube](https://www.youtube.com/watch?v=EgYiEO8P704)
+
+[Class 70 Video in English on Facebook: AWS X-Ray](https://www.facebook.com/zeeshanhanif/videos/10225802789761318)
+
+[Class 70 Video in English on YouTube : AWS X-Ray](https://www.youtube.com/watch?v=kUdnlL5Krhk)
+
+[Class 70 Video in Urdu on YouTube](https://www.facebook.com/zeeshanhanif/videos/10225839661283083)
+
+[Class 70 Video in Urdu on YouTube](https://www.youtube.com/watch?v=i5QTUdZBNO0)
+
+[Class 71 Video in English on Facebook : AWS Lambda Layers](https://www.facebook.com/zeeshanhanif/videos/10225831683963655)
+
+[Class 71 Video in English on YouTube : AWS Lambda Layers](https://www.youtube.com/watch?v=HrvCZGKI9SE)
+
+[Class 71 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225874842762598)
+
+[Class 71 Video in Urdu on YouTube](https://www.youtube.com/watch?v=fa6HHSD5Qfo)
+
+[Class 72 Video in English on Facebook : AWS Lambda Edge and Lambda Destination](https://www.facebook.com/zeeshanhanif/videos/10225866783121112)
+
+[Class 72 Video in English on YouTube : AWS Lambda Edge and Lambda Destination](https://www.youtube.com/watch?v=onx7b32jRcM)
+
+[Class 72 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225904417381945)
+
+[Class 72 Video in Urdu on Facebook](https://www.youtube.com/watch?v=LfhS4kuJTaI)
+
+[Class 73 Video in English on Facebook : Docker Containers and AWS Lambda Container Image ](https://www.facebook.com/zeeshanhanif/videos/10225893868638233/)
+
+[Class 73 Video in English on YouTube : Docker Containers and AWS Lambda Container Image ](https://www.youtube.com/watch?v=MA3nAbT-5cQ)
+
+[Class 73 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225939772465800)
+
+[Class 73 Video in Urdu on YouTube](https://www.youtube.com/watch?v=W5GbzrWs6gw)
+
+[Class 74 Video in English on Facebook : AWS DynamoDB Streams and Constructs as Cloud components](https://www.facebook.com/zeeshanhanif/videos/10225932463123071)
+
+[Class 74 Video in English on YouTube : AWS DynamoDB Streams and Constructs as Cloud components](https://www.youtube.com/watch?v=LCY9ssPMWYY)
+
+[Class 74 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225965758835443)
+
+[Class 74 Video in Urdu on YouTube](https://www.youtube.com/watch?v=v9QkNInvTz0)
+
+[Class 75 Video in English on Facebook : CDK Multiple Stacks and AWS Route 53 ](https://www.facebook.com/zeeshanhanif/videos/10225959184311084)
+
+[Class 75 Video in English on YouTube : CDK Multiple Stacks and AWS Route 53 ](https://www.youtube.com/watch?v=9qvCPzMOOrk)
+
+[Class 75 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226003175610839)
+
+[Class 75 Video in Urdu on YouTube](https://www.youtube.com/watch?v=IuGThHadaj0)
+
+[Class 76 Video in English on Facebook : AWS Elastic File Storage and Testing CDK ](https://www.facebook.com/zeeshanhanif/videos/10226021607111615)
+
+[Class 76 Video in English on YouTube : AWS Elastic File Storage and Testing CDK ](https://www.youtube.com/watch?v=jTOu3Fd0CHs)
+
+[Class 76 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226030936944855)
+
+[Class 76 Video in Urdu on YouTube](https://www.youtube.com/watch?v=EcLqSHWo1Sw)
+
+[Class 77 Video in English on Facebook : Serverless Event-Driven Architecture ](https://www.facebook.com/zeeshanhanif/videos/10226050958845390)
+
+[Class 77 Video in English on YouTube : Serverless Event-Driven Architecture ](https://www.youtube.com/watch?v=wN9-XYyecPI)
+
+[Class 77 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226060184996038)
+
+[Class 77 Video in Urdu on YouTube](https://www.youtube.com/watch?v=JCu31cqUrPM)
+
+[Class 78 Video in English on Facebook : CDK Design Patterns ](https://www.facebook.com/zeeshanhanif/videos/10226081386086052)
+
+[Class 78 Video in English on YouTube : CDK Design Patterns ](https://www.youtube.com/watch?v=MUDYeQ2HSLs)
+
+[Class 78 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226089243162474)
+
+[Class 78 Video in Urdu on YouTube](https://www.youtube.com/watch?v=OgvmM1f-OjI)
+
+[Class 79 Video in English on Facebook : AWS Aurora Serverless and Data API ](https://www.facebook.com/zeeshanhanif/videos/10226116722369437)
+
+[Class 79 Video in English on YouTube : AWS Aurora Serverless and Data API ](https://www.youtube.com/watch?v=NC_az7syauM)
+
+[Class 79 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226125216901795)
+
+[Class 79 Video in Urdu on YouTube](https://www.youtube.com/watch?v=OGS5Qr9TmsM)
+
+[Class 80 Video in English on Facebook : AWS VPC And AWS Neptune Graph Database ](https://www.facebook.com/zeeshanhanif/videos/10226147281253390)
+
+[Class 80 Video in English on YouTube : AWS VPC And AWS Neptune Graph Database](https://www.youtube.com/watch?v=-1Prdv-hhG4)
+
+[Class 80 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226153456967779)
+
+[Class 80 Video in Urdu on YouTube](https://www.youtube.com/watch?v=nySxSG9nqfU)
+
+[Class 81 Video in English on Facebook: Gremlin Graph Traversal Language ](https://www.facebook.com/zeeshanhanif/videos/10226182818781806)
+
+[Class 81 Video in English on YouTube: Gremlin Graph Traversal Language ](https://www.youtube.com/watch?v=GzDkFWM7KAs)
+
+[Class 81 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226190729259563)
+
+[Class 81 Video in Urdu on YouTube](https://www.youtube.com/watch?v=rPx5SpBa0Ec)
 
 
 ## Important Note:
@@ -1406,45 +1549,75 @@ https://www.qwiklabs.com/focuses/8389?parent=catalog
 The Tutorial uses Cloud Run and Pub/Sub but you are required to use AWS technologies like Lambda, EventBridge etc. 
 
 
-## Bootcamp 2020 Project 15: Building Multi-Tenant Serverless SaaS Apps and APIs using Event-Driven Architecture 
+### Bootcamp 2020 Project 15A: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Graph Database and GraphQL
 
-Now we will learn how to develop multi-tenanted SaaS API's and applications.
+[Dinning by Friends API Project using Neptune and AppSync](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step53_api_project_one)
 
-[Learning Serverless SaaS Repo](https://github.com/panacloud-modern-global-apps/serverless-saas)
-
-
-Project 15: Build a SaaS App like Slack.com
-
-Build your own Servlerless Slack (slack.com) App and APIs using GraphQL Subscriptions and other AWS Serverless Technolgies
-
-Also implement a billing system where you can charge to the tenant on the basis of AWS cost plus markup basis. 
-
-It would be ideal if you can building an Serverless SaaS environment where the complexity of multi-tenancy is [largely hidden away from developers using Lambda layers](https://github.com/aws-samples/aws-serverless-saas-layers),
-
-Note: You will have to track how much AWS resources each tenant is consuming, and build a seprate Admin App and API for this.
-
-[Calculating Tenant Costs in SaaS Environments](https://aws.amazon.com/blogs/apn/calculating-tenant-costs-in-saas-environments/)
-
-[Serverless architectural patterns and best practices](https://www.youtube.com/watch?v=9IYpGTS7Jy0)
-
-[Micro-SaaS: The Definitive Guide for 2021](https://www.preetamnath.com/micro-saas)
-
-Note: You may use Thundra or some other serverless monitoring service.
+[Tutorial: Building a GraphQL API on AWS with Amazon Neptune Graph Database, AppSync, TypeScript, and CDK](https://dev.to/dabit3/building-a-graphql-api-on-aws-with-amazon-neptune-graph-database-and-cdk-428a)
 
 
-## Class 61-65: Figma for Developers
+### Bootcamp 2020 Project 15B: Build Serverless SaaS APIs for DiningByFriends Social Network Project using Relational Database and OpenAPI
 
-Learning Material:
+[Dinning by Friends API Project using Aruora Serverless and API Gateway](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step54_api_project_two)
 
-[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 1)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics/)
 
-[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 2)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics-part-2/)
+## Part XIII: Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify
 
-[FIGMA 101 – THE BEGINNER’S ULTIMATE GUIDE TO THE BASICS (PART 3)](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics-part-3/)
+[7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e)
 
-[Everything Developers Need To Know About Figma](https://www.smashingmagazine.com/2020/09/figma-developers-guide/)
+[Why Brands are Choosing React Native for App Development in 2021](https://londondailypost.com/why-brands-are-choosing-react-native-for-app-development-in-2021/)
 
-[Figma tips for developers](https://uxdesign.cc/figma-tips-for-developers-e2f7af9eaa62)
+[10 Famous Apps Built With React Native](https://brainhub.eu/library/react-native-apps/)
+
+[Expo vs React-Native-CLI](https://medium.com/@dinukapiyadigama/expo-vs-react-native-cli-7a3019b2760d)
+
+[Common Dilemma of using expo vs Vanilla React Native being solved](https://medium.com/@harisbaig100/common-dilemma-of-using-expo-vs-vanilla-react-native-being-solved-6d6d649d7ad1)
+
+[VS Code React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
+
+[Learn React Native with Expo](https://docs.expo.io/)
+
+[Full Stack Mobile Apps with Amplify and Expo](https://docs.amplify.aws/start/q/integration/react-native)
+
+[Class 82 Video in English on Facebook: Crash Course in Hybrid Mobile Development Class 1](https://www.facebook.com/zeeshanhanif/videos/10226210301228850)
+
+[Class 82 Video in English on YouTube: Crash Course in Hybrid Mobile Development Class 1](https://www.youtube.com/watch?v=vjce0lyQxaI)
+
+[Class 82 Video in Urdu on Facebook](https://web.facebook.com/zeeshanhanif/videos/10226221136659729)
+
+[Class 82 Video in Urdu on YouTube](https://www.youtube.com/watch?v=DbUJV0k7kVM)
+
+[Class 83 Video in English on Facebook: Crash Course in Hybrid Mobile Development Class 2](https://www.facebook.com/zeeshanhanif/videos/10226244738609763)
+
+[Class 83 Video in English on YouTube: Crash Course in Hybrid Mobile Development Class 2](https://www.youtube.com/watch?v=JoRAYsEbi9I)
+
+[Class 83 Code on Github](https://github.com/zeeshanhanif/reactnative-todolist)
+
+[Class 83 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226254799261273)
+
+[Class 83 Video in Urdu on YouTube](https://www.youtube.com/watch?v=r0MHDJ6AXfc)
+
+[Class 84 Video in English on Facebook: Crash Course in Hybrid Mobile Development Class 3](https://www.facebook.com/zeeshanhanif/videos/10226271623321864)
+
+[Class 84 Video in English on YouTube: Crash Course in Hybrid Mobile Development Class 3](https://www.youtube.com/watch?v=TX-pHbwQ92A)
+
+[Class 84 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10226279800766295)
+
+[Class 84 Video in Urdu on YouTube](https://www.youtube.com/watch?v=aZT-DLK_SEc)
+
+
+### Bootcamp 2020 Project 16: Build Serverless Slack App with Expo and AWS Amplify
+
+[Follow the guide to create (offline) multi-tenant apps with Expo and AWS Amplify](https://medium.com/abn-amro-developer/a-guide-to-create-offline-multi-tenant-apps-with-expo-and-aws-amplify-c4b00d874650)
+
+[Build a Realtime Chat App in React Native (tutorial for beginners)](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
+
+
+## Appendices
+
+## Appendix A: Figma for Developers
+
+[Watching this Figma Crash Course to Begin Learning](https://www.youtube.com/watch?v=Gu1so3pz4bA)
 
 [Designing in Figma Book](https://figmabook.com/)
 
@@ -1456,25 +1629,29 @@ Learning Material:
 
 [Figma Resources](https://www.figmaresources.com/)
 
-## Bootcamp 2020 Project 16: Figma for Developers
 
-## Project 16A: Building a Recipe App using Figma
+### Figma Project A: Building a Recipe App using Figma
 
 [Build a recipe app with Figma](https://blog.prototypr.io/build-a-recipe-app-with-figma-936ca41a962d)
 
-Project 16A-I: Build a Wireframe for Recipe App using the above design
+Build a Wireframe for Recipe App using the above design
 
-Project 16A-II: Build a Mockup for the Recipe App using the above design
+Build a Mockup for the Recipe App using the above design
 
-### Project 16B: Builidng your own Design for a Talky Chat & Video Messenger App using Figma
+### Figma Project B: Builidng your own Design for a Talky Chat & Video Messenger App using Figma
 
 [Talky Chat & Video Messenger App](https://www.figmaresources.com/resources/chat-app)
 
-Project 16B-I: Build a Wireframe for Talky Chat & Video Messenger App creating your own design
+Build a Wireframe for Talky Chat & Video Messenger App creating your own design
 
-Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating your own design
+Build a Mockup for the Talky Chat & Video Messenger App creating your own design
 
-## Class 65-70: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups
+##  Appendix B: Design Patterns in TypeScript
+
+[Design Patterns in TypeScript](https://blog.bitsrc.io/design-patterns-in-typescript-e9f84de40449)
+
+
+## Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups
 
 [Innovation Presentation Slides](https://docs.google.com/presentation/d/14pnzdfCSKYpqy4CuesBuNHa0-qRLbPmZqsj9brbGp14/edit?usp=sharing)
 
@@ -1510,273 +1687,187 @@ Project 16B-II: Build a Mockup for the Talky Chat & Video Messenger App creating
 
 [The Scrum Guide](https://www.scrumguides.org/index.html)
 
+## Appendix D: Cloud Security
 
-## Bootcamp 2020 Project 17: Build a Multi-Tenant Serverless SaaS That Books Vacations
+Cloud Security is very important part of cloud computing.
 
-Single Tenant Vacation Booking App Example:
+You should learn the foundations of networking by reading Part I of this book:
 
-[Build An App That Books Vacations To The Moon with GraphQL, Lambda, DynamoDB](https://itnext.io/build-an-app-that-books-vacations-to-the-moon-with-graphql-lambda-dynamodb-serverless-framework-569b26b6e85)
+[CCNA 200-301 Official Cert Guide, Volume 1](https://www.amazon.com/CCNA-200-301-Official-Cert-Guide/dp/0135792738/ref=sr_1_3)
 
-In this project, you will design and build a multi-tanent vacation booker SaaS, one of the tenants of this SaaS will be Booking Vacations to the Moon.
+After that you should cover this book:
 
-Technologies Used: Figma for UI/UX Design, Jira for Project Management, Event Driven Architecture, Stripe for Payments, Gatsby.js, AWS Cloud Front, AWS App Sync, AWS Event Bridge, DynamoDB, FaunaDB, Cognito, etc.  
+[AWS Certified Security Study Guide: Specialty (SCS-C01) Exam](https://www.amazon.com/AWS-Certified-Security-Study-Guide/dp/1119658810/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
-Requirements:
 
-1. Use Figma to design a wireframe for the Multi-Tenant Serverless SaaS Booking App.
-2. Use Figma to design MOC for the Multi-Tenant Serverless SaaS Booking App.
-3. Use Jira and SCRUM to do project management for the SaaS. You will create product backlog, create sprints, assign tasks to yourself, etc.
-4. Use GitHub to maintain your code.
-5. Use AWS CDK for IaC.
-6. Design a Event Driven Serverless Architecture.
-7. Use Gatsby.js for frontend development and AWS Cloud Frount deployment.
-8. There will be two kinds of frontends: an GUI for users and an GUI for tenant admins.
-9. Vacation bookers will use Stripe for making Payments for the Vacations. The payments will be transfered to the tenants after making a 10% cut as SaaS usage fee.
-10. Also Develop QraphQL APIs for Developers.
-11. A very good example for our SaaS is Shopify with provides GUI for Tenants, and also provide GraphQL API for developers who want to develop their own front ends.
 
 
+## Appendix E: List of Students who have completed the first 12 Projects and started to work towards becoming a Full Stack Serverless Cloud Developer
 
+The following 80 developers have submitted the 12 projects so far. Good news is that 4 female developers have also qualified for the Ninja group. Completing 12 projects is only way to become member of Panacloud team and work with and learn from top developers. Currently, they are going through extensive training, you can also join the Ninja team by completing 12 projects (the selection process will continue till December 2022):
 
+1. [Mateen Mustafa](https://www.facebook.com/mateen.blaster.5)
 
-### Material we will cover going forward
+2. [Waris Hasan](https://www.facebook.com/DR.Death420)
 
-[AI as a Service: Serverless machine learning with AWS by Peter Elger, Eoin Shanaghy](https://www.amazon.com/AI-as-Service-Peter-Elger/dp/1617296155/ref=sr_1_1)
+3. [M. Jazzel Mehmood](https://www.facebook.com/jazzel.mehmood/)
 
-[Building a serverless blockchain application with Amazon Managed Blockchain](https://aws.amazon.com/blogs/database/building-a-serverless-blockchain-application-with-amazon-managed-blockchain/)
+4. [Syed M. Bilal](https://www.facebook.com/syed.muhammed.bilal.01/)
 
-Hybrid Mobile Apps using React Native
+5. [Hamzah Syed](https://www.facebook.com/profile.php?id=100011483407599)
 
+6. [M. Hasham](https://www.facebook.com/IamHashamVakani)
 
+7. [Farhan Farooq](https://www.facebook.com/farhan.abbasi/)
 
+8. [Shayaan Ahmed Farooqi](https://www.facebook.com/ERUDITEMONKY)
 
-## AI as a Service
+9. [Abdul Rafay Ghani](https://www.facebook.com/abdulrafay.ghani.9)
 
-[Serverless machine learning with AWS](https://www.manning.com/books/ai-as-a-service)
+10. [Tanzeel Tasleem](https://www.facebook.com/tanzeel.tasleem.7)
 
-## Blockchain as a Service
+11. [Uzair Bangee](https://www.facebook.com/uzair.bangee)
 
-[A BEGINNER’S GUIDE TO BLOCKCHAIN AS A SERVICE](https://www.leewayhertz.com/guide-to-blockchain-as-a-service/)
+12. [Mudassir Khan](https://www.facebook.com/profile.php?id=100005873677424)
 
-### Now you are ready to do these kinds of jobs
+13. [Muhammad Hasan](https://www.facebook.com/hasan.sohail.58)
 
-[Remote Job Requirements](https://stackoverflow.com/jobs/277612/senior-react-typescript-and-graphql-developer-x-team)
+14. [Irfan Ahmed](https://www.facebook.com/irfanahmed01/)
 
-[You can start your own company](https://www.facebook.com/eCommerceWala/videos/812017962942939/)
+15. [Murtaza Hanzala](https://www.facebook.com/murtaza.huzaifa.52)
 
-HOW MUCH DOES IT COST TO BUILD A GATSBY WEBSITE?
+16. [Haris Aqeel](https://www.facebook.com/haris.aqeel.50)
 
-It depends on the complexity of implementation. If it’s just a development of a simple static web page, then you may pay around 4k - 8k for it.
-If you would like to also plan a UX, UI, and Design it, be ready to spend around 6k - 30k - depending on how big the project will be.
-If it’s a big and much more complex page, the cost can be around 20k-80k
-[Source](https://pagepro.co/gatsby-development.html)
+17. [Usama Subhani](https://www.facebook.com/usama.subhani.102)
 
-Read the following material to prepare for React interviews:
+18. [Muhammad Jami](https://www.facebook.com/profile.php?id=100008724766246)
 
-## Homework Reading Material: Writing Custom Hooks
+19. [Shamaz Saeed](https://www.facebook.com/shamaz332)
 
-[Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
+20. [Waqas Mahmood](https://www.facebook.com/waqas.mahmood.505/)
 
-[Building your own Hooks](https://reactjs.org/docs/hooks-custom.html)
+21. [Usama Tahir](https://www.facebook.com/usamatahir0)
 
-[Building your own React Hooks](https://dev.to/nikhilkumaran/building-your-own-react-hooks-2pnj)
+22. [Muhammad Alay Raza](https://www.facebook.com/alay.raza.5/)
 
+23. [Muhammad Tayyab](https://web.facebook.com/profile.php?id=100031034920869)
 
-## Homework Reading Material: Higher-Order Components In React
+24. [Muhammad Tauqeer](https://www.facebook.com/profile.php?id=100007376806817)
 
-[React Higher Order Components For The Newbie](https://programmingwithmosh.com/react/react-higher-order-components-for-the-newbie/)
+25. [Huma Hanif](https://www.facebook.com/huma.hanif.9469/)
 
-[Higher-Order Components In React](https://www.smashingmagazine.com/2020/06/higher-order-components-react/)
+26. [Mohammad Hammad](https://www.facebook.com/hungryhammad)
 
-[Master Higher-Order Components in React Today](https://janhesters.com/master-higher-order-components/)
+27. [Mahmood Ahmed](https://www.facebook.com/profile.php?id=100007120710392)
 
-[HOC - Functional Component](https://stackoverflow.com/questions/57852370/hoc-functional-component)
+28. [Dawood Sadiq](https://www.facebook.com/daudsadiq.daud/)
 
+29. [Ahmed Khan](https://www.facebook.com/ahmed.khan8845)
 
-## Homework Reading Material: Styled-Components In React
+30. [Ahsan Shah](https://www.facebook.com/RealSAShah/)
 
-[How To Use Styled-Components In React](https://www.smashingmagazine.com/2020/07/styled-components-react/)
+31. [Ahmed Usman](https://www.facebook.com/ahmed.usman.948494)
 
+32. [Naila Roomi](https://www.facebook.com/roomi.roomi.395891/)
 
-## Project Ideas for Your Portfolio
+33. [Mohammad Aziz](https://www.facebook.com/sam.luvv.7)
 
-[8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
+34. [Muhammad Faizan](https://web.facebook.com/faizansohail077/)
 
-[Review React Examples for future Projects](https://reactjsexample.com/)
+35. [Hamza Ahmed Sheikh](https://www.facebook.com/hamza.ahmed.330)
 
+36. [Muhammad Arsalan](https://www.facebook.com/muhammadrsalan/)
 
+37. [Muhammad Maavia Asghar](https://www.facebook.com/maaviaasghar/)
 
-## Class 33 Learn to Market Our Skills
+38. [Arsal Abbasi](https://www.facebook.com/profile.php?id=100053719729104)
 
-### Bootcamp 2020 Important Personal Project I: Build a Developer Profile Portfolio site in Gatsby.js Contentful with TypeScript and Deploy as a PWA
+39. [Aman Mirza](https://www.facebook.com/amanmirza99/)
 
-[Creating a Portfolio Website: tips on how to do it right](https://undsgn.com/creating-a-portfolio-website-tips-on-how-to-do-it-right/)
+40. [Usman Naeem](https://web.facebook.com/usmantanoli.naeem.1)
 
-[HOW TO BUILD AN IMPRESSIVE PORTFOLIO SITE](https://skillcrush.com/blog/impressive-tech-portfolio/)
+41. [Muhammad Sami Tariq](https://www.facebook.com/sami.tariq.754)
 
-[10 tips for building a killer portfolio website](https://www.creativebloq.com/portfolios/tips-portfolio-website-4137460)
+42. [Muhammad Ali Sarwar](https://www.facebook.com/alisarwarr)
 
-[Awwward-winning portfolio websites](https://www.awwwards.com/websites/portfolio/)
+43. [Syed Aashir Majeed](https://www.facebook.com/prince.aashir.395)
 
-[15 Web Developer Portfolios to Inspire You](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/)
+44. [Hasan Sattar](https://www.facebook.com/hasan.sattar.777)
 
-[My (Simple) Workflow To Design And Develop A Portfolio Website](https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/)
+45. [Syed Fawad Hashmi](https://www.facebook.com/syedfawadhashmi32423)
 
+46. [Usama Abbasi](https://www.facebook.com/usama.abbasi.714655)
 
-[Building a personal site with Gatsby.js, Contentful and Netlify](Building a personal site with Gatsby.js, Contentful and Netlify)
+47. [Hamza Farooq](https://web.facebook.com/hamza.farooq.923519/)
 
-[Ejaz Ahmed Portfolio Site](https://www.ejazahmed.com)
+48. [Saher Razzaq](https://www.facebook.com/profile.php?id=100009426214929)
 
+49. [Thanwar Das](https://www.facebook.com/thanwar.das.161)
 
-### Bootcamp 2020 Important Personal Project II: Build a Detailed Linkedin Developer Profile and Become Active on Linkedin
+50. [Hifz Ur Rehman Ali](https://web.facebook.com/profile.php?id=100009456091163)
 
-[Connect to Zia Khan](https://www.linkedin.com/in/ziaukhan/)
+51. [Muhammad Ahsan Riaz](https://www.facebook.com/muhammadahsan.riaz.3/)
 
-[Here’s an example of the perfect LinkedIn profile summary, according to Harvard career experts](https://www.cnbc.com/2019/09/25/example-template-of-perfect-linkedin-profile-according-to-harvard-career-experts.html)
+52. [Mutahir Riaz](https://www.facebook.com/profile.php?id=100006011446364)
 
-[10 Ways You Didn’t Know LinkedIn Could Find You a Job](https://www.aarp.org/work/job-hunting/info-2017/10-ways-to-use-linkedin-job-search.html)
+53. [Sheharyar Anwar](https://www.facebook.com/sheharyar.anwar)
 
-[Improve Your Résumé by Turning Bullet Points into Stories](https://hbr.org/2016/05/improve-your-resume-by-turning-bullet-points-into-stories)
+54. [Muhammad Shahzad Ali](https://www.facebook.com/alim6077/)
 
-### Bootcamp 2020 Important Personal Project III: Create Full Stack, React, Gatsby and Serverless Gigs on Fivver
+55. [Abdul Waqar](https://www.facebook.com/abdulwaqar844/)
 
-[4 Things to Do Before Creating Your Gig](https://sellers.fiverr.com/en/article/4-things-to-do-before-creating-your-gig)
+56. [Muhammad Bilal Hadid](https://www.facebook.com/bilal.hadid.96)
 
-[Creating a Gig](https://sellers.fiverr.com/en/article/creating-a-gig)
+57. [Rao Muhammad Akif Tufail](https://www.facebook.com/raoakif)
 
-### Bootcamp 2020 Important Personal Project IV: Start working on a Panacloud USA Project
+58. [Muhammad Subhan Akram](https://www.facebook.com/subhan.akram.188)
 
-Getting your first work is difficult, therefore we suggest that you start working on a professional Pancloud project and become part of the team to gain experience and references.
+59. [Aqib Iqbal](https://www.facebook.com/aqib.iqbal.1217)
 
+60. [Shariq Anwar](https://www.facebook.com/shariq.anwar.391/)
 
+61. [Eraj Hanif](https://www.facebook.com/erajhanif15)
 
+62. [Saad Shahid](https://www.facebook.com/saadsmarty)
 
-## Bootcamp 2020 Important Personal Project V: Build Upwork Profile
+63. [Ali Razzaq](https://www.facebook.com/AliRa22aQ/)
 
-[Upwork](https://www.upwork.com/)
+64. [Naveeda Hanif](https://www.facebook.com/naveedaHaneef/)
 
-## Class 39-43 Build Android, iOS, and Web apps with React Native and Expo
+65. [Awais Ahmad](https://www.facebook.com/awais.ahmad1990)
 
-[Expo vs React-Native-CLI](https://medium.com/@dinukapiyadigama/expo-vs-react-native-cli-7a3019b2760d)
+66. [Adeel Malik](https://www.facebook.com/adeel.malik.1217727)
 
-[Common Dilemma of using expo vs Vanilla React Native being solved](https://medium.com/@harisbaig100/common-dilemma-of-using-expo-vs-vanilla-react-native-being-solved-6d6d649d7ad1)
+67. [Mukarram Ali](https://www.facebook.com/mickey.mouce.16)
 
-[Expo](https://expo.io/)
+68. [Syed Haseeb Ahmed](https://www.facebook.com/profile.php?id=100011960075954)
 
-[React Native](https://reactnative.dev/)
+69. [Omar Shahid](https://www.facebook.com/omar.shahid.3572/)
 
-## Class 44-50: MultiCloud Serverless: AWS, Google Cloud, and Azure
+70. [Muhammad Muneeb Waseem](https://www.facebook.com/sarkaar.1000/)
 
-## Class 51-55: Integration with AI and DeFi Services
+71. [Athar Rasool](https://www.facebook.com/profile.php?id=100004682925191)
 
+72. [Tayyab Roy](https://www.facebook.com/tayyabroy.roytayyab/)
 
+73. [M.Hammad](https://www.facebook.com/muhammad.hammad.5477272/)
 
-## Start working for Panacloud Silicon Valley Clients
+74. [Muhammad Asghar](https://www.facebook.com/asghar.poonja/)
 
+75. [Muhammad Shiraz](https://www.facebook.com/Donny.shz)
 
+76. [Umair Younus](https://www.facebook.com/umair.khi)
 
+77. [Muhammad Salman khan](https://www.facebook.com/mohammadsalman.khan.794)
 
+78. [Fahad Shaikh](https://www.facebook.com/fahaad09)
 
+79. [Muhammad Uzair](https://www.facebook.com/m.uzair17)
 
+80. [Farasat Ali](https://www.facebook.com/FarasatAliAzeemi/)
 
+81. [M. Owais](https://www.facebook.com/trouble.maker121/)
 
 
-
-
-
-### Bootcamp 2020 Project 18 Build a Facebook Shop
-
-[The end of eCommerce as we know it](https://marketing-interactive.com/opinion-the-end-of-ecommerce-as-we-know-it]
-
-[Facebook Shops: What Shops could spell for the future of social commerce](https://www.thedrum.com/opinion/2020/06/10/facebook-shops-what-shops-could-spell-the-future-social-commerce)
-
-[Introducing Facebook Shops, a new online shopping experience](https://www.facebook.com/business/news/announcing-facebook-shops)
-
-[Introducing Facebook Shops: Helping Small Businesses Sell Online](https://about.fb.com/news/2020/05/introducing-facebook-shops/)
-
-[Facebook Shop a No Brainer for Advertisers, Says 5-Star Analyst](https://finance.yahoo.com/news/facebook-shop-no-brainer-advertisers-190700846.html)
-
-[Complete Details about Facebook Shops](https://www.dailydot.com/debug/facebook-shops/)
-
-[About Facebook Shops](https://www.facebook.com/business/help/2343035149322466?id=1077620002609475)
-
-[Facebook Developer Platform](https://developers.facebook.com/docs/commerce-platform/)
-
-[Getting Started](https://developers.facebook.com/docs/commerce-platform/setup/getting-started/)
-
-[Reference Reading](https://www.websitebuilderexpert.com/building-online-stores/how-to-set-up-a-facebook-store/)
-
-
-
-
-
-
-1. What are Microservices?
-
-[Microservices 101](https://www.zdnet.com/article/microservices-101-a-guide-to-microservice-architecture/?fbclid=IwAR3z-BaumXGg3X9LlyHmP18mPkJ2tFU0t1tRuLXdBKDjVLhk7A6hEkbk7bw)
-
-2. How to make Repos for Microservices
-
-[How to end Microservice pain and embrace the Monorepo](https://www.fourtheorem.com/blog/monorepo)
-
-3. [Learn Multicloud Serverless Application Development](https://github.com/Panacloud-Multicloud/learn-multicloud-serverless-development)
-
-[Multicloud Serverless App Development Overview in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10223676898495365/)
-
-[Multicloud Serverless App Development Overview in Urdu on YouTube](https://www.youtube.com/watch?v=BYOsS1clC48/)
-
-### Bootcamp 2020 Project 20A: Implement Expense Tracker Android and iOS Apps using React Native with Backend in Express and MongoDB
-
-[React Native Basics](https://reactnative.dev/docs/tutorial)
-
-### Bootcamp 2020 Project 20B: Implement Expense Tracker Android and iOS Apps using React Native with Local Storage in Realm
-
-[Realm Docs](https://realm.io/docs/javascript/latest/)
-
-### Bootcamp 2020 Project 21: Implement Expense Tracker DApp with Ethereum Blockchain
-[What are Decentralized Applications – dApps?](http://blockchainhub.net/decentralized-applications-dapps/)
-
-Zeeshan Hanif has implemented Expense Tracker as a DApp:
-
-[Demo](http://expense-tracker-ethereum.surge.sh/)
-
-You need to have [MetaMask installed](https://metamask.io/download.html) to test the DApp
-
-Test it on ropsten network otherwise it will cost you real Ether
-
-[Reveiw Zeeshan Hanif's Code](https://github.com/zeeshanhanif/expense-tracker-ethereum)
-
-React is used to develop the Dapp, createContext and useReducer Hooks are used for state management
-
-Smart Contract is written in [Solidity](https://www.dappuniversity.com/articles/solidity-tutorial)
-
-[Web3.js](https://web3js.readthedocs.io/) is used to integrate with the Blockchain Node 
-
-You are requred to develop your own version of Expense Tracker DApp
-
-
-### Bootcamp 2020 Final Project 22: Participate in Building a Open Source Ecommerce Framework using TypeScript, Gatsby.js, Node.js/Express, Atlas MongoDB, Google Cloud Run, and Terraform 
-
-First Season consisting of 12 Episodes of Tech Talk in Urdu with Zia Khan and Adil Altaf are now available. In these episodes we discuss latest state of the art technologies like AI, Cloud Native, Serverless, Blockchain, JAMstack, and Multicloud.
-
-[Enjoy Watching on YouTube](https://www.youtube.com/playlist?list=PL4lZMpZtayiETLN0rpE9JH155EEShtt3m)
-
-
-More Details will added as we go forward.
-
-### Get AWS and Google Cloud Accounts for Bootcamp 2020
-The software industry has completely shifted toward multi-cloud usage in projects. In our bootcamp we will be using Amazon and Google clouds extensively. It is requested from all participants that they make arrangements to get the following free AWS and Google accounts within one month:
-
-[AWS Free Offer](https://aws.amazon.com/free/)
-
-[Google Cloud Free Offer](https://cloud.google.com/free)
-
-You will get temporary free Access to Google Cloud while doing these [Hello Cloud Run tutorial](https://www.qwiklabs.com/focuses/5162?parent=catalog) and 
-
-You will get temporary free Access to AWS while doing these [Introduction to AWS Lambda tutorial](https://www.qwiklabs.com/focuses/10541?parent=catalog) and [Building Serverless Applications with an Event-Driven Architecture](https://www.qwiklabs.com/focuses/10959?parent=catalog)
-
-Note 1: It is very easy the difficult part is getting your account verified by using credit cards or bank accounts. 
-
-Note 2: The cloud accounts are not required immediately. We will need them in about a months time.
 
 
