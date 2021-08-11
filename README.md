@@ -185,7 +185,7 @@ Learning Material for Class 1:
 
 
 
-## Class 2: React Components )
+## Class 2: React Components 
 
 Learning material
 
@@ -226,7 +226,7 @@ Cover the Tutorial Before Fetching Data
 [Class 4 YouTube Urdu Video : Learning React Part 3](https://www.youtube.com/watch?v=i-DhkVmlgcI)
 
 
-## Class 5 and 6: Hooks
+## Class 5 and 6: React Hooks
 After we have learned the useState Hook in class 4 using the [Learn React Tutorial](https://daveceddia.com/react-tutorial/) we will skip the fetch data (we will cover it latter) part of the tutorial and learn useContext and useReducer hooks and build the Expense Tracker App.
 
 First we will learn the hooks:
@@ -248,7 +248,7 @@ First we will learn the hooks:
 [Class 5 Facebook Urdu Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176512327228720/)
 
 
-### Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API
+#### Project 1: Build an Expense Tracker App using React Hooks and Context API
 
 Follow this Video and build the App: [Expense Tracker](https://www.youtube.com/watch?v=XuFDcZABiDQ)
 
