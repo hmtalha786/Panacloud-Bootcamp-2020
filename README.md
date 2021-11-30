@@ -255,45 +255,15 @@ You may use AI to generate graphics:
 
 ## Part II: Programming with TypeScript
 
-Begin by installing [TypeScript 4.0+](https://www.typescriptlang.org/download):
-
-npm install -g typescript
-
 We will use this book to learn TypeScript:
 
 [Programming TypeScript: Making Your JavaScript Applications Scale by Boris Cherny](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/ref=sr_1_1)
 
-Chapters 1, 2, 3, 4, and 9
+[React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 
-Note 1: You can also learn TypeScript 4.0 in detail from this Panacloud [repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
+[Learn from Panacloud Typescript Repo](https://github.com/panacloud-modern-global-apps/learn-typescript)
 
-[Class 14 English Facebook Video : Learning TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223895728525979/)
-
-[Class 14 English YouTube Video : Learning TypeScript](https://www.youtube.com/watch?v=dVKnwn44U7w)
-
-[Class 14 Urdu YouTube Video : Learning TypeScript](https://www.youtube.com/watch?v=xMRyGAqnPEU)
-
-[Class 14 Urdu Facebook Video : Learning TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223906321590799)
-
-[Class 15 English Facebook Video : Building A React Quiz App In TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223936688309948/)
-
-[Class 15 English YouTube Video : Building A React Quiz App In TypeScript](https://www.youtube.com/watch?v=kJGlPhiPUjQ)
-
-[Class 15 Urdu Facebook Video : Building A React Quiz App In TypeScript](https://www.facebook.com/zeeshanhanif/videos/10223948565926881/)
-
-[Class 15 Urdu YouTube Video : Building A React Quiz App In TypeScript](https://www.youtube.com/watch?v=H3tQTv2EPcM)
-
-[Class 16 English Facebook Video : Building A React Quiz App And TypeScript Part 2](https://www.facebook.com/zeeshanhanif/videos/10223966186247378/)
-
-[Class 16 English YouTube Video : Building A React Quiz App And TypeScript Part 2](https://www.youtube.com/watch?v=2gYKVaeApzU)
-
-[Class 16 Urdu YouTube Video](https://www.youtube.com/watch?v=R94xDXkvBgM)
-
-[Class 16 English YouTube Video](https://www.facebook.com/zeeshanhanif/videos/10223976398902688/)
-
-### Bootcamp 2020 Project 6: Quiz App with React and TypeScript
-
-[You can submit your project here](https://docs.google.com/forms/d/e/1FAIpQLSepN9QvMMoutFd9FbrK9xg0elIHRmjDDfMriRVQe2bDeHMCUw/viewform)
+#### Project 6: Quiz App with React and TypeScript
 
 [Quiz app using React and TypeScript](https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typescript/)
 
@@ -301,7 +271,7 @@ Note 1: You can also learn TypeScript 4.0 in detail from this Panacloud [repo](h
 
 ## Part III: Progressive Web Apps (PWA)
 
-## Class 17 Progressive Web Apps (PWA) and Offline Availability
+### Progressive Web Apps (PWA) and Offline Availability
 
 [THE CURRENT STATE OF PROGRESSIVE WEB APPS](https://www2.stardust-testing.com/en/the-current-state-of-progressive-web-apps)
 
@@ -333,35 +303,17 @@ Deploy PWA on All App Stores
 
 [How to Build Modern, Offline Apps With Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers)
 
-[Class 17 English Facebook Video : Learning Progressive Web App](https://www.facebook.com/zeeshanhanif/videos/10224004740651214/)
-
-[Class 17 English YouTube Video : Learning Progressive Web App](https://www.youtube.com/watch?v=S9Jkb61_gac)
-
-[Class 17 Urdu Facebook Video ](https://www.facebook.com/zeeshanhanif/videos/10224016274939564/)
-
-[Class 17 Urdu Facebook Video](https://www.youtube.com/watch?v=N5JHz6TvGnM)
-
-## Class 18 Progressive Web App (PWA) and Service Push Notification
+### Progressive Web App (PWA) and Service Push Notification
 
 [Firebase Push Notifications in React](https://www.smashingmagazine.com/2020/06/firebase-push-notifications-react/)
 
-[Class 18 English Facebook Video : Progressive Web App And Push Notification](https://www.facebook.com/zeeshanhanif/videos/10224036506845349/)
+#### Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications
 
-[Class 18 English YouTube Video : Progressive Web App And Push Notification](https://www.youtube.com/watch?v=4MwPXLcMRns)
-
-[Class 18 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224047034148525/)
-
-[Class 18 Urdu YouTube Video](https://www.youtube.com/watch?v=oFxmMVi6U0U)
-
-### Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA) with Offline Capability and Push Notifications
-
-You should deploy them on Surge as well make it an Android App, Apple App and Windows App (If you have a Store account's you may deploy on the stores as well).
+You should deploy them on Surge as well make it an Android App, Apple App and Windows App.
 
 Reference:
 
 [Publishing PWAs to Major App Stores: The Whys and Hows](https://www.simicart.com/blog/pwa-app-stores/)
-
-
 
 ## Part IV: Testing React in TypeScript
 
