@@ -4,12 +4,9 @@
 
 We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps and Websites including e-commerce apps using React, Gatsby.js, Redux, GraphQL, RESTful OpenAPI, Serverless, AWS Lambda Functions, AWS Lambda Containers, AWS Aruora Serverless, AWS Neptune, AWS EventBridge, MongoDB, FaunaDB, Git, GitHub, GitHub Actions, Netlify, Contentful, Stripe, SnipCart, Shopify, etc. The objective of Bootcamp 2020 is to train developers to develop cloud based SaaS Apps and general serverless APIs for these apps. It includes developing graphic user interfaces (GUIs) development using React, Gatsby, and React Native.
 
-[Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/)
-
-
-
 [An Overview of bootcamp concepts by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
 
+[Bootcamp 2020 Repo](https://panacloud.github.io/bootcamp-2020/)
 
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
