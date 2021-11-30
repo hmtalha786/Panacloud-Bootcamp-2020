@@ -56,9 +56,7 @@ Note: Material in English is already available [extensively on the web](https://
 
 ### Development Setup (Github Actions CI/CD and Surge Deployment)
 
-### React Components 
-
-### React Props and State Management
+### React Components, Props and State Management
 
 [A Complete React Tutorial for 2020](https://daveceddia.com/react-tutorial/)
 
@@ -78,72 +76,29 @@ Note: Material in English is already available [extensively on the web](https://
 
 Follow this Video and build the App: [Expense Tracker](https://www.youtube.com/watch?v=XuFDcZABiDQ)
 
-[Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSfnJKOcI5t-IKt7ebmdRgr5llo4PIMXUVMKGAptMjaIeN0Gsg/viewform)
-
-[Class 6 YouTube English Video : Building a React Project](https://www.youtube.com/watch?v=q6GmIxnflfM)
-
-[Class 6 Facebook English Video : Building a React Project](https://www.facebook.com/piaic.main/videos/177715090441777/)
-
-[Class 6 Facebook Urdu Video : Building a React Project](https://www.facebook.com/imran82ali/videos/283949636075779/)
-
-[Class 6 YouTube Urdu Video : Building a React Project](https://www.youtube.com/watch?v=dkMba8oK55w)
-
-Expense Tracker App By Adil Altaf
-
-[Git Repo URL](https://github.com/adil-innovation-lab/react-expense-tracker)
-
-[Surge URL](http://react-expense-tracker-adil.surge.sh/)
-
-[Step by Step Guide](https://docs.google.com/document/d/1f6KBYJQAhwUzS0UtMzrshBWwOeYHH32kMAfuLIfuDgU/edit?usp=sharing)
-
-
-## Class 7: Asynchronous JavaScript
+### Asynchronous JavaScript
 
 [JavaScript Promises, Callbacks, and Async/Await for Beginners](https://hackernoon.com/javascript-promises-callbacks-and-asyncawait-pu7432af)
 
 [Asynchronous JavaScript: How Callbacks, Promises, and Async-Await Work](https://www.youtube.com/watch?v=XuFDcZABiDQ)
 
-[Code for Class 7 English](https://github.com/zeeshanhanif/demo-async-programming)
-
-[Class 7 English Facebook Video : Learning Asynchronous JavaScript](https://web.facebook.com/imran82ali/videos/286047259199350/)
-
-[Class 7 English YouTube Video : Learning Asynchronous JavaScript](https://www.youtube.com/watch?v=xSCo1sPk6mg)
-
-[Class 7 Urdu YouTube Video : Learning Asynchronous JavaScript](https://www.youtube.com/watch?v=8a1oq_IjCHE)
-
-[Class 7 Urdu Facebook Video : Learning Asynchronous JavaScript](https://www.facebook.com/imran82ali/videos/286730542464355/)
-
-## Class 8: Fetch Data
-
-Learn JavaScript Fetch
+### JavaScript Fetch and Axios in React
 
 [How to fetch data in JavaScript](https://javascript.info/fetch)
 
 [Fetch API data using useEffect React hook](https://medium.com/thecodefountain/fetch-api-data-using-useeffect-react-hook-465809ca12c6)
 
-Different Options to get data in React
-
 [Different ways to fetch data in React](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
-
-[Class 8 Code](https://github.com/zeeshanhanif/demo-react-useeffect)
-
-[Class 8 English Facebook Video : JavaScript Fetch with React](https://www.facebook.com/zeeshanhanif/videos/10223639700845447/)
-
-[Class 8 English YouTube Video : JavaScript Fetch with React](https://www.youtube.com/watch?v=MoTfMsuexhk)
-
-[Class 8 Urdu Facebook Video : JavaScript Fetch with React](https://www.facebook.com/zeeshanhanif/videos/10223652738571382/)
-
-[Class 8 Urdu YouTube Video : JavaScript Fetch with React](https://www.youtube.com/watch?v=i7iuPKa2A-E)
 
 Data fetching with React Suspense
 
-[React Suspense 1](https://rahmanfadhil.com/fetch-data-with-react-suspense/)
+[Article 1](https://rahmanfadhil.com/fetch-data-with-react-suspense/)
 
-[React Suspense 2](https://blog.logrocket.com/react-suspense-for-data-fetching/)
+[Article 2](https://blog.logrocket.com/react-suspense-for-data-fetching/)
 
-[React Suspense 3](https://dev.to/andreiduca/practical-implementation-of-data-fetching-with-react-suspense-that-you-can-use-today-273m)
+[Article 3](https://dev.to/andreiduca/practical-implementation-of-data-fetching-with-react-suspense-that-you-can-use-today-273m)
 
-[React Suspense 4](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis-bf2d20ea7c59)
+[Article 4](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis-bf2d20ea7c59)
 
 References:
 
@@ -151,39 +106,19 @@ References:
 
 [React Suspense Reference 2](https://www.manning.com/books/react-hooks-in-action)
 
-## Class 9 and 10: Material UI
-
-Learn Material UI
+### Learn Material UI
 
 [Main Website](https://material-ui.com/)
-
-[Installation](https://material-ui.com/getting-started/installation/)
-
-[Getting Started](https://material-ui.com/getting-started/usage/)
 
 [Details](https://react.school/material-ui)
 
 [Templates](https://material-ui.com/getting-started/templates/)
 
-Learn Chart.js
+### Learn Chart.js
 
 [Mian Docs](https://www.chartjs.org/docs/latest/)
 
-[Getting Started](https://www.chartjs.org/docs/latest/getting-started/)
-
-[Class 9 English Facebook Video : Learning Material UI and Chart.JS](https://www.facebook.com/zeeshanhanif/videos/10223687587242577/)
-
-[Class 9 English YouTube Video : Learning Material UI and Chart.JS](https://www.youtube.com/watch?v=UVd9YQJ8Ge4)
-
-[Class 9 Urdu Facebook Video : Learning Material UI and Chart.JS](https://www.facebook.com/zeeshanhanif/videos/10223699956751807/)
-
-[Class 9 Urdu YouTube Video : Learning Material UI and Chart.JS](https://www.youtube.com/watch?v=GqRXcnxEZt0)
-
-
-### Bootcamp 2020 Project 2: COVID-19 Tracker App
-
-[Submit Project here](https://docs.google.com/forms/d/e/1FAIpQLSe73k_rbeFDLdZB_mynUVF8f8AZbcG5MkvCRG_omAZuiMPDGg/viewform)
-
+#### Project 2: COVID-19 Tracker App
 
 You will use React, React Material UI, Chart.js, and React Suspense to build this COVID-19 Tracker React App
 
@@ -205,17 +140,7 @@ You will use React, React Material UI, Chart.js, and React Suspense to build thi
 
 Your code should be hosted in a GitHub Repo from the beginning with GitHub CI/CD Actions and hosted on Surge.
 
-Adil Altaf builds the COVID-19 Tracker App
-
-[Class 10 English Facebook Video : Building COVID-19 Tracker App](https://www.facebook.com/zeeshanhanif/videos/10223727984452482/)
-
-[Class 10 English YouTube Video : Building COVID-19 Tracker App](https://www.youtube.com/watch?v=_JcQ5ISu2PQ&lc)
-
-[Class 10 Urdu Facebook Video : Building COVID-19 Tracker App](https://www.facebook.com/zeeshanhanif/videos/10223743572722179/)
-
-[Class 10 Urdu YouTube Video : Building COVID-19 Tracker App](https://www.youtube.com/watch?v=hbVAt-44G9Y)
-
-## Class 11 React Router v6
+### React Router V6
 
 [Setting Started with React Router V6](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md)
 
@@ -223,21 +148,11 @@ Adil Altaf builds the COVID-19 Tracker App
 
 Note: [Use the latest Beta Release of V6](https://github.com/ReactTraining/react-router/releases)
 
-[Class 11 English Facebook Video : Learning Routing With React Router](https://www.facebook.com/zeeshanhanif/videos/10223782839183816/)
-
-[Class 11 English YouTube Video : Learning Routing With React Router](https://www.youtube.com/watch?v=Bj3u0Jm-Mtg)
-
-[Class 11 Urdu Facebook Video : Learning Routing With React Router](https://www.facebook.com/zeeshanhanif/videos/10223796154156682/)
-
-[Class 11 Urdu YouTueb Video : Learning Routing With React Router](https://www.youtube.com/watch?v=IcbIvXY7JCw)
-
-### Bootcamp 2020 Project 3: Shoe Store 
+#### Project 3: Shoe Store 
 
 Now build a Shoe Store after watching this [video](https://www.youtube.com/watch?v=4NpGzBEySvI)
 
-[Submit Project 3](https://docs.google.com/forms/d/e/1FAIpQLSd1q0mVoS3Ue-qmWlV97cPuMSCzebdPcyMl2MQg1VHNj42plw/viewform)
-
-## Class 12 Web Animations API
+### Web Animations API with React
 
 [Web Animations API Now Supported in All Evergreen Browsers](https://www.infoq.com/news/2020/06/web-animations-evergreen-browser/?fbclid=IwAR1GBet8ybffQ5Tlcfterc_sq8EledzsTHvWm-eLlSwvrFmwf63ggvM4Z_o)
 
@@ -259,37 +174,13 @@ Now build a Shoe Store after watching this [video](https://www.youtube.com/watch
 
 [More Web Animations Resources](http://danielcwilson.com/tags/web-animations-api/)
 
-[Class 12 English Facebook Video : Learning Web Animation](https://www.facebook.com/zeeshanhanif/videos/10223819571102091/)
-
-[Class 12 English YouTube Video : Learning Web Animation](https://www.youtube.com/watch?v=DhUveECtjG4)
-
-[Class 12 Urdu Facebook Video : Learning Web Animation](https://www.facebook.com/zeeshanhanif/videos/10223831524160910/)
-
-[Class 12 Urdu YouTube Video : Learning Web Animation](https://www.youtube.com/watch?v=PbXYsgtJAMc)
-
-
-## Class 13 Web Animations API with React
-
 We will be using the following React hooks useEffect, useLayoutEffect and [useRef](http://wellpaidgeek.com/2020/02/11/reacts-useref-hook-explained/).
 
 [Everything You Need to Know About FLIP Animations in React](https://css-tricks.com/everything-you-need-to-know-about-flip-animations-in-react/)
 
 [Creating Highly-Performant Animations using Web Animations API and React hooks](https://hackernoon.com/creating-highly-performant-animations-using-web-animations-api-and-react-hooks-k92d3utf?source=rss)
 
-[Class 13 English Facebook Video : Web Animation In React](https://www.facebook.com/zeeshanhanif/videos/10223864192297593/)
-
-[Class 13 English YouTube Video : Web Animation In React](https://www.youtube.com/watch?v=Vi7yRwlE4bg)
-
-[Class 13 Urdu Facebook Video : Web Animation In React](https://www.facebook.com/zeeshanhanif/videos/10223876685849924/)
-
-[Class 13 Urdu YouTube Video : Web Animation In React](https://www.youtube.com/watch?v=BQRBFoYhWgE)
-
-
-
-### Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API and React Hooks
-
-[Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLScAj_NogliczLma_YvlE9r1FbBhamiq6dhJy77SIpbxZPYmvw/viewform)
-
+#### Project 4A: Red Queen's Race with Web Animation API and React Hooks
 
 Review the [code and demo](https://codepen.io/rachelnabors/pen/PNGGaV) and improve and build your own Red Queens Race Animation with React Hooks.
 
@@ -302,20 +193,13 @@ Note the following:
 
 [Source Article](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
 
-
-### Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks
-
-[Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSex4JsbAK60hhrZkHZs_8HWj54KF2idxZxEaQorNqqhUOxjWQ/viewform)
-
+#### Project 4B: Develop Tiny Short Animation with React Hooks
 
 Read this article: [The Tiny Short Animation Trend in Web Design](https://speckyboy.com/short-animation-web-design/)
 
 Clone the front page animation of one of the companies mentioned in the article, using the latest web animation API.
 
-
-### Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations
-
-[Project Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSdhHS93c4GCfxTAJYkuIG8nSp9kRp1pYcLW9r-20TNO2P6wIA/viewform)
+#### Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations
 
 "Our eyes are hardwired to notice movement. Historically, it’s helped to keep us alive. And, in 2020, web designers are capitalizing on this default human setting.
 Animated illustrations are one of the newest trends being used to direct viewer attention within web designs.  You’ll see these petite animations on sites all over the web.
@@ -330,7 +214,6 @@ An illustration can empower a brand if blended well with minimalism. See how the
 
 To intrigue viewers, brands like Pitch have introduced 3D illustration design:
 [Pitch Website](https://pitch.com/)
-
 
 In this project you will build a animated React Website, all animations must use the latest Web Animations API and latest trends.
 
@@ -355,9 +238,6 @@ You can use the ideas form these resourses or develop your own ideas:
 [8 Best Animated Websites](https://www.mockplus.com/blog/post/best-animated-websites)
 
 [Best Website examples of designs with animation](https://www.awwwards.com/websites/animation/)
-
-
-
 
 You may use AI to generate graphics:
 
