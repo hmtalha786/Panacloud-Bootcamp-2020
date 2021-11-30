@@ -1,67 +1,12 @@
-# Bootcamp 2020: Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs in Baby Steps and Build Your SaaS Startup
+# Panacloud Bootcamp 2020
+
+### Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs in Baby Steps and Build Your SaaS Startup
 
 We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps and Websites including e-commerce apps using React, Gatsby.js, Redux, GraphQL, RESTful OpenAPI, Serverless, AWS Lambda Functions, AWS Lambda Containers, AWS Aruora Serverless, AWS Neptune, AWS EventBridge, MongoDB, FaunaDB, Git, GitHub, GitHub Actions, Netlify, Contentful, Stripe, SnipCart, Shopify, etc. 
-
-We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
-
-[Pakistan Digital Gig Economy Surged 69% Amid COVID19 Pandemic](http://www.pakalumni.com/m/blogpost?id=1119293%3ABlogPost%3A312758)
-
-Difference Between Bootcamp 2020 and Bootcamp 2021
 
 The objective of Bootcamp 2020 is to train developers to develop cloud based SaaS Apps and general serverless APIs for these apps. It includes developing graphic user interfaces (GUIs) development using React, Gatsby, and React Native.
 
 [Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/)
-
-The objective of Bootcamp 2021 to to train developers to develop cloud based AI and IoT powered serverless APIs. We will not cover graphic user interfaces (GUIs) in Bootcamp 2021 but only voice based conversational interfaces. A conversational interface (CUI) is a user interface for computers that emulates a conversation with a real human. The course of this bootcamp is designed in such a way that Bootcamp 2020 is not a prerequisite to Bootcamp 2021.
-
-[Bootcamp 2021](https://panacloud.github.io/bootcamp-2021/)
-
-The recording of Bootcamp 2021 will start after the recording of Bootcamp 2020 is complete. After the recording in Bootcamp 2020 is complete, it does not mean that the Bootcamp is closed. Admissions and project acceptance will remain open in both the Bootcamps at atleast till December 2023. We are also developing a platform for developers which will adopt both these bootcamps. Our upcoming Operation Unicorn Startups will also require participations in these bootcamps.
-
-[Cloud’s trillion-dollar prize is up for grabs](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/clouds-trillion-dollar-prize-is-up-for-grabs)
-
-The objective of both Bootcamp 2020 and Bootcamp 2021 is to train people to go after this prize.
-
-How many of these questions can you answer?
-
-Note: Bootcamp 2020 and 2021 cover these topics.
-
-Questions a Modern Application and API Developer must be able to answer:
-
-1. What is Cloud Computing?
-2. What is Serverless?
-3. What is SaaS and Serverless SaaS?
-4. What is Event-Driven Architecture?
-5. What are APIs?
-6. What are RESTful OpenAPIs?
-7. What are GraphQL APIs?
-8. What is IaC and Cloud Development Kit (CDK)?
-9. What is Typescript and why do use it as our default web programming language?
-10. What is Node.js?
-11. What is Web Assembly?
-12. What are Lambda Functions?
-13. What are Containers?
-14. What are Relational Databases and SQL? 
-15. What is AWS Aurora Serverless?
-16. What are Graph Databases and Gremlin?
-17. What is AWS Neptune and Azure Cosmos DB?
-18. Why do we now advise developers to use Relational or Graph Databases for developing their APIs?
-19. What is an AWS Event Bridge?
-20. What is real-time data streaming? e.g. Kinesis and Kafka
-21. What is Edge Computing?
-22. What is AWS Greengrass and Azure IoT Edge?
-23. What is FreeRTOS?
-24. What is Rust and what is it best used for?
-25. What is AI as a Service (AIaaS)?
-26. What is Tensorflow and why do we prefer Python for AI development?
-27. What is Amazon SageMaker?
-28. What is Amazon Neptune Machine Learning?
-29. What is Amazon Aurora Machine Learning?
-30. What are Smart Contracts?
-31. What is Ethereum 2.0?
-32. What is Ewasm?
-33. What is Diem?
-
 
 Overview of the concepts by the Students:
 
