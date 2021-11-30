@@ -31,20 +31,20 @@ These topics have been released for everyone in Urdu:
 Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
 
 # Table of Contents
-Part I: [Front-End Fundamentals with React](#part-i-front-end-fundamentals-with-react)<br/>
-Part II: [Programming with TypeScript](#part-ii-programming-with-typescript)<br/>
-Part III: [Progressive Web Apps (PWA)](#part-iii-progressive-web-apps-pwa)<br/>
-Part IV: [Testing React in TypeScript](#part-iv-testing-react-in-typeScript)<br/>
-Part V: [Client Side GraphQL in React Apps](#part-v-client-side-graphql-in-react-apps)<br/>
-Part VI: [Managing State with Redux](#part-vi-managing-state-with-redux)<br/>
-Part VII: [API Mocking Servers with Mirage](#part-vii-api-mocking-servers-with-mirage)<br/>
-Part VIII: [Forms with Formik and Yup](#part-viii-forms-with-formik-and-yup)<br/>
-Part IX: [Component Driven Development with Storybook and Bit](#part-ix-component-driven-development-with-storybook-and-bit)<br/>
-Part X: [JAMstack Serverless and Headless CMS](#part-x-jamstack-serverless-and-headless-cms)<br/>
-Part XI: [Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#part-xi-jamstack-ecommerce-stripe-shopify-and-snipcart)<br/>
-Part XII: [Full Stack Serverless with AWS Cloud Development Kit - CDK](#part-xii-full-stack-serverless-with-aws-cloud-development-kit---cdk)<br/>
-Part XIII: [Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify](#part-xiii-android-and-ios-mobile-full-stack-apps-using-react-native-with-expo-and-amplify)<br/>
-Part XIV: [Appendices](#appendices)<br/>
+[Part I: Front-End Fundamentals with React](#part-i-front-end-fundamentals-with-react)<br/>
+[Part II: Programming with TypeScript](#part-ii-programming-with-typescript)<br/>
+[Part III: Progressive Web Apps (PWA)](#part-iii-progressive-web-apps-pwa)<br/>
+[Part IV: Testing React in TypeScript](#part-iv-testing-react-in-typeScript)<br/>
+[Part V: Client Side GraphQL in React Apps](#part-v-client-side-graphql-in-react-apps)<br/>
+[Part VI: Managing State with Redux](#part-vi-managing-state-with-redux)<br/>
+[Part VII: API Mocking Servers with Mirage](#part-vii-api-mocking-servers-with-mirage)<br/>
+[Part VIII: Forms with Formik and Yup](#part-viii-forms-with-formik-and-yup)<br/>
+[Part IX: Component Driven Development with Storybook and Bit](#part-ix-component-driven-development-with-storybook-and-bit)<br/>
+[Part X: JAMstack Serverless and Headless CMS](#part-x-jamstack-serverless-and-headless-cms)<br/>
+[Part XI: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#part-xi-jamstack-ecommerce-stripe-shopify-and-snipcart)<br/>
+[Part XII: Full Stack Serverless with AWS Cloud Development Kit - CDK](#part-xii-full-stack-serverless-with-aws-cloud-development-kit---cdk)<br/>
+[Part XIII: Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify](#part-xiii-android-and-ios-mobile-full-stack-apps-using-react-native-with-expo-and-amplify)<br/>
+[Appendices](#appendices)<br/>
     * [Appendix A: Figma for Developers](#appendix-a-figma-for-developers)<br/>
     * [Appendix B: Design Patterns in TypeScript](#appendix-b-design-patterns-in-typeScript)<br/>
     * [Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#appendix-c-combining-design-thinking-lean-startup-and-agile-to-build-saaS-startups)<br/>
