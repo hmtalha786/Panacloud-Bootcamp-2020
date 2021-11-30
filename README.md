@@ -16,6 +16,20 @@ We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps a
 
 [YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
 
+### Prerequisites: HTML, CSS, and JavaScript
+
+These topics have been released for everyone in Urdu:
+
+[Learn HTML by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQ3BALy86tIXICkG874wAc6)
+
+[Learn CSS Intro by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQSWIen_zUSEBmtqzPLuRob)
+
+[Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
+
+Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
+
+[Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites-html-css-and-javascript)
@@ -78,19 +92,7 @@ We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps a
     * [Appendix D: Cloud Security](#appendix-d-cloud-security)
     * [Appendix E: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer](#appendix-e-list-of-students-who-have-completed-the-first-12-projects-and-started-to-work-towards-becoming-a-full-stack-serverless-cloud-developer)
 
-## Prerequisites: HTML, CSS, and JavaScript
 
-These topics have been released for everyone in Urdu:
-
-[Learn HTML by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQ3BALy86tIXICkG874wAc6)
-
-[Learn CSS Intro by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQSWIen_zUSEBmtqzPLuRob)
-
-[Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
-
-Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
-
-[Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
 # Part I: Front-End Fundamentals with React
 
