@@ -52,71 +52,19 @@ Note: Material in English is already available [extensively on the web](https://
 
 # Part I: Front-End Fundamentals with React
 
-## Class 1: Development Setup (Github Actions CI/CD and Surge Deployment)
+[JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 
-Learning Material for Class 1:
+### Development Setup (Github Actions CI/CD and Surge Deployment)
 
-[Assignment Notes](https://github.com/panacloud/Bootcamp-Setup)
+### React Components 
 
-[Presentation](https://docs.google.com/presentation/d/1f1AKJIS6WkZ3PjGWG-WVJzurrEb9wNreIgmfftgQSjE/edit#slide=id.g72e8d8e333_0_978)
+### React Props and State Management
 
-[Notes](https://docs.google.com/document/d/11D43REjdlsoZgchrhwf8UeuGdtXaFFMnHS9CAkVkXoY/edit)
+[A Complete React Tutorial for 2020](https://daveceddia.com/react-tutorial/)
 
-[Class 1 in English on Facebook : Intro to Bootcamp 2020 and Development Setup](https://www.facebook.com/piaic.main/videos/170335457846407/)
+### React Hooks
 
-[Class 1 in English on YouTube : Intro to Bootcamp 2020 and Development Setup](https://www.youtube.com/watch?v=pjc441QKJFE)
-
-[Class 1 in Urdu on Facebook : Intro to Bootcamp 2020 and Development Setup](https://www.facebook.com/piaic.main/videos/170952927784660/)
-
-[Class 1 in Urdu on YouTube : Intro to Bootcamp 2020 and Development Setup](https://www.youtube.com/watch?v=OiP7N_ztnik)
-
-
-
-## Class 2: React Components 
-
-Learning material
-
-[Assignment](https://github.com/panacloud/Base-React-App)
-
-[Notes](https://docs.google.com/document/d/13GYhCj3Ts8fWQfj35s6Xz9YZ3WhtK0iqugdnFkrtxwQ/edit?usp=sharing)
-
-English Videos:
-
-[Class 2 in English on Facebook : Github Actions And Intro to Learning React Part 1](https://www.facebook.com/piaic.main/videos/171414181071868/?fref=mentions)
-
-[Class 2 in English on YouTube : Github Actions And Intro to Learning React Part 1](https://www.youtube.com/watch?v=G25BM3nPk3s)
-
-[Class 2 in Urdu on Facebook : Github Actions And Intro to Learning React Part 1](https://www.facebook.com/piaic.main/videos/171837241029562/)
-
-[Class 2 in Urdu on YouTube : Github Actions And Intro to Learning React Part 1](https://www.youtube.com/watch?v=mEFq3YGiauM)
-
-
-## Class 3 and 4: React Props and State Management
-
-[Learn React Tutorial](https://daveceddia.com/react-tutorial/)
-Cover the Tutorial Before Fetching Data
-
-[Class 3 Facebook English Video : Learning React Part 2](https://www.facebook.com/piaic.main/videos/173417630871523)
-
-[Class 3 YouTube English Video : Learning React Part 2](https://www.youtube.com/watch?v=AHC-Gas_sok)
-
-[Class 3 Facebook Urdu Video : Learning React Part 2](https://www.facebook.com/piaic.main/videos/173553557524597/)
-
-[Class 3 YouTube Urdu Video : Learning React Part 2](https://www.youtube.com/watch?v=8TQ1i93pRsk)
-
-[Class 4 Facebook English Video : Learning React Part 3](https://www.facebook.com/piaic.main/videos/174431544103465/)
-
-[Class 4 YouTube English Video : Learning React Part 3](https://www.youtube.com/watch?v=ye0yj5WdXg4)
-
-[Class 4 Facebook Urdu Video : Learning React Part 3](https://www.facebook.com/piaic.main/videos/174837927396160/)
-
-[Class 4 YouTube Urdu Video : Learning React Part 3](https://www.youtube.com/watch?v=i-DhkVmlgcI)
-
-
-## Class 5 and 6: React Hooks
-After we have learned the useState Hook in class 4 using the [Learn React Tutorial](https://daveceddia.com/react-tutorial/) we will skip the fetch data (we will cover it latter) part of the tutorial and learn useContext and useReducer hooks and build the Expense Tracker App.
-
-First we will learn the hooks:
+[Useful React Hooks That You Can Use In Your Projects](https://www.smashingmagazine.com/2021/11/useful-react-hooks/)
 
 [An Introduction To React’s Context API](https://www.smashingmagazine.com/2020/01/introduction-react-context-api/)
 
@@ -125,15 +73,6 @@ First we will learn the hooks:
 [How to use the useReducer React hook](https://flaviocopes.com/react-hook-usereducer/)
 
 [Understanding the React useReducer Hook](https://alligator.io/react/usereducer/)
-
-[Class 5 YouTube English Video : Learning React Part 4](https://www.youtube.com/watch?v=h27ABSn-27g)
-
-[Class 5 Facebook English Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176007070612579/)
-
-[Class 5 YouTube Urdu Video : Learning React Part 4](https://www.youtube.com/watch?v=_UUlRvbJPfQ)
-
-[Class 5 Facebook Urdu Video : Learning React Part 4](https://www.facebook.com/piaic.main/videos/176512327228720/)
-
 
 #### Project 1: Build an Expense Tracker App using React Hooks and Context API
 
