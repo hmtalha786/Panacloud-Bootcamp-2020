@@ -1,12 +1,10 @@
 # Panacloud Bootcamp 2020
 
-### Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs in Baby Steps and Build Your SaaS Startup
+## Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs in Baby Steps and Build Your SaaS Startup
 
 We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps and Websites including e-commerce apps using React, Gatsby.js, Redux, GraphQL, RESTful OpenAPI, Serverless, AWS Lambda Functions, AWS Lambda Containers, AWS Aruora Serverless, AWS Neptune, AWS EventBridge, MongoDB, FaunaDB, Git, GitHub, GitHub Actions, Netlify, Contentful, Stripe, SnipCart, Shopify, etc. The objective of Bootcamp 2020 is to train developers to develop cloud based SaaS Apps and general serverless APIs for these apps. It includes developing graphic user interfaces (GUIs) development using React, Gatsby, and React Native.
 
 [An Overview of bootcamp concepts by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
-
-[Bootcamp 2020 Repo](https://panacloud.github.io/bootcamp-2020/)
 
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
@@ -71,17 +69,13 @@ We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps a
     * [Appendix E: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer](#appendix-e-list-of-students-who-have-completed-the-first-12-projects-and-started-to-work-towards-becoming-a-full-stack-serverless-cloud-developer)
 
 
-## Introduction to English and Urdu Sections
+### Bootcamp Official Github Repo:
 
-### English Section:
+[Bootcamp 2020 Repo](https://panacloud.github.io/bootcamp-2020/)
 
-[English Class Facebook Group](https://www.facebook.com/groups/4irug)
+### Youtube Recorded Classes:
 
 [YouTube English Channel](https://www.youtube.com/channel/UCZUgRzBPk8CoYeHhbPL8OWg)
-
-### Urdu Section:
-
-[Urdu Class Facebook Group](https://www.facebook.com/groups/freelance.remote.work/)
 
 [YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
 
