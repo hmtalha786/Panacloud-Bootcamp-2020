@@ -6,6 +6,20 @@ We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps a
 
 [An Overview of bootcamp concepts by Hamza Farooq in Urdu](https://www.facebook.com/hamza.farooq.923519/videos/1048319272275012)
 
+### Bootcamp Official Github Repo:
+
+[Bootcamp 2020 Repo](https://panacloud.github.io/bootcamp-2020/)
+
+### Youtube Recorded Classes:
+
+[YouTube English Channel](https://www.youtube.com/channel/UCZUgRzBPk8CoYeHhbPL8OWg)
+
+[YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
+
+### Teaching Team:
+
+[Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam, Waris, Huma, and [Zia Khan](https://github.com/ziaukhan).
+
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites-html-css-and-javascript)
@@ -67,21 +81,6 @@ We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps a
     * [Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#appendix-c-combining-design-thinking-lean-startup-and-agile-to-build-saaS-startups)
     * [Appendix D: Cloud Security](#appendix-d-cloud-security)
     * [Appendix E: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer](#appendix-e-list-of-students-who-have-completed-the-first-12-projects-and-started-to-work-towards-becoming-a-full-stack-serverless-cloud-developer)
-
-
-### Bootcamp Official Github Repo:
-
-[Bootcamp 2020 Repo](https://panacloud.github.io/bootcamp-2020/)
-
-### Youtube Recorded Classes:
-
-[YouTube English Channel](https://www.youtube.com/channel/UCZUgRzBPk8CoYeHhbPL8OWg)
-
-[YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
-
-### Teaching Team:
-
-[Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam, Waris, Huma, and [Zia Khan](https://github.com/ziaukhan).
 
 ## Prerequisites: HTML, CSS, and JavaScript
 
