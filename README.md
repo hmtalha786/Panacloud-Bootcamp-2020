@@ -273,15 +273,13 @@ We will use this book to learn TypeScript:
 
 ### Progressive Web Apps (PWA) and Offline Availability
 
-[THE CURRENT STATE OF PROGRESSIVE WEB APPS](https://www2.stardust-testing.com/en/the-current-state-of-progressive-web-apps)
+[The current state of progressive web apps](https://www2.stardust-testing.com/en/the-current-state-of-progressive-web-apps)
 
 [What’s a PWA, and How Do I Build One?](https://medium.com/better-programming/what-is-a-pwa-and-how-do-i-build-it-e843c247efb5)
 
 [How to Make your React App a Progressive Web App](https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa/)
 
 [Building a Progressive Web Application with Create React App](https://hub.packtpub.com/building-a-progressive-web-application-with-create-react-app-2-tutorial/)
-
-Deploy PWA on All App Stores
 
 [Publishing PWAs to Major App Stores: The Whys and Hows](https://www.simicart.com/blog/pwa-app-stores/)
 
@@ -311,15 +309,13 @@ Deploy PWA on All App Stores
 
 You should deploy them on Surge as well make it an Android App, Apple App and Windows App.
 
-Reference:
-
 [Publishing PWAs to Major App Stores: The Whys and Hows](https://www.simicart.com/blog/pwa-app-stores/)
 
 ## Part IV: Testing React in TypeScript
 
 [You Can't Do CI/CD Without Automated Testing](https://dzone.com/articles/you-cant-do-cicd-without-automated-testing)
 
-[What is Test Driven Development (TDD)? Tutorial with Example](https://www.guru99.com/test-driven-development.html)
+[What is Test Driven Development (TDD)?](https://www.guru99.com/test-driven-development.html)
 
 [How to Test React Components in TypeScript](https://www.pluralsight.com/guides/how-to-test-react-components-in-typescript)
 
@@ -331,36 +327,13 @@ Reference:
 
 [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
-[Class 19 English Facebook Video : Learning Test Driven Development](https://www.facebook.com/zeeshanhanif/videos/10224107545941282/)
-
-[Class 19 English YouTube Video : Learning Test Driven Development](https://www.youtube.com/watch?v=gYYcGCpPA7g)
-
-[Class 19 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224118327250808/)
-
-[Class 19 Urdu YouTube Video](https://www.youtube.com/watch?v=R6S5Vo9aizg)
-
-
-### Bootcamp 2020 Project 7B: Build a React Timer App using TypeScript with Test Driven Development
+#### Project 7B: Build a React Timer App using TypeScript with Test Driven Development
 
 [React Test-driven Development: From User Stories to Production](https://www.toptal.com/react/tdd-react-user-stories-to-development)
 
 Follow this for TypeScript config:
 
 [Create react app typescript: testing with jest and enzyme](https://medium.com/@feralamillo/create-react-app-typescript-testing-with-jest-and-enzyme-869fdba1bd3)
-
-Note 1: While Building the CI/CD pipeline make sure the app passes all the automated tests before deployment 
-
-Note 2: In the Toptal article above they donot use TypeScipt, but you are required to do so.
-
-[Class 20 English Facebook Video : Building a React Timer App](https://www.facebook.com/zeeshanhanif/videos/10224150277569546/)
-
-[Class 20 English YouTube Video : Building a React Timer App](https://www.youtube.com/watch?v=xsf_NhEkQII)
-
-[Class 20 Urdu Facebook Video : Building a React Timer App](https://www.facebook.com/zeeshanhanif/videos/10224162457554038/)
-
-[Class 20 Urdu YouTube Video : Building a React Timer App](https://www.youtube.com/watch?v=VxDXySbiqhY)
-
-
 
 ## Part V: Client Side GraphQL in React Apps
 
@@ -374,20 +347,13 @@ Introduction to GraphQL:
 
 [Queries and Mutations](https://graphql.org/learn/queries/)
 
-What’s your query? Learn GraphQL with React and Contentful
-
 [What’s your query? Learn GraphQL with React and Contentful](https://www.contentful.com/blog/2020/08/03/whats-your-query-learn-graphql-with-react-and-contentful/)
 
 [Watch Video Tutorials](https://www.contentful.com/developers/videos/learn-graphql/)
 
-JavaScript Prerequisites: 
-
-[What are Tag Functions?](https://codeburst.io/javascript-what-are-tag-functions-97682f29521b)
+[What are Tag Functions in GraphQL?](https://codeburst.io/javascript-what-are-tag-functions-97682f29521b)
 
 [Read about Tagged templates from this page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-
-
-Learn high level GraphQL Server Concepts, not in detail now (This will help you to understand client development better):
 
 [How to build full-stack apps with Apollo](https://www.apollographql.com/docs/tutorial/introduction/)
 
@@ -397,19 +363,15 @@ Learn high level GraphQL Server Concepts, not in detail now (This will help you 
 
 [Write query resolvers](https://www.apollographql.com/docs/tutorial/resolvers/)
 
-
-Apollo-Client 3.0 Tutorial:
-
 [Introduction to Appllo Client 3 in React](https://www.apollographql.com/docs/react/)
 
-[Get started](https://www.apollographql.com/docs/react/get-started/)
+[Get started with Apollo](https://www.apollographql.com/docs/react/get-started/)
 
 [Fetch data with the useQuery hook](https://www.apollographql.com/docs/react/data/queries/)
 
 [Update data with the useMutation hook](https://www.apollographql.com/docs/react/data/mutations/)
 
 [Using Apollo with TypeScript](https://www.apollographql.com/docs/react/development-testing/static-typing/)
-
 
 TypeScript Code Generator:
 
@@ -419,24 +381,7 @@ TypeScript Code Generator:
 
 [How to configure GraphQL-Codegen and React Apollo Client to do work for you](https://medium.com/swlh/how-to-configure-react-apollo-client-and-graphql-codegen-to-do-work-for-you-ecb305d983aa)
 
-[Class 21 English Facebook Video : Learning GraphQL Part 1 And Using Apollo Client With React](https://www.facebook.com/zeeshanhanif/videos/10224181188222293/)
-
-[Class 21 English YouTube Video : Learning GraphQL Part 1 And Using Apollo Client With React](https://www.youtube.com/watch?v=T_kLAkmxUi4)
-
-[Class 21 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224191488999806/)
-
-[Class 21 Urdu YouTube Video](https://www.youtube.com/watch?v=DETgbc4P2AM)
-
-[Class 22 English Facebook Video : Learning GraphQL Part 2](https://www.facebook.com/zeeshanhanif/videos/10224218669319297/)
-
-[Class 22 English YouTube Video : Learning GraphQL Part 2](https://www.youtube.com/watch?v=81d1-zldsoQ)
-
-[Class 22 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224230984267163/)
-
-[Class 22 Urdu YouTube Video](https://www.youtube.com/watch?v=JdOj2yMdEkU)
-
-
-### Bootcamp 2020 Project 8: Build a Build a Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA
+#### Project 8: Build a Build a Space X Client Application with React, TypeScript, Appllo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA
 
 [Watch first 7 mins of video](https://www.youtube.com/watch?v=7wzR4Ig5pTI)
 
@@ -450,67 +395,25 @@ You are required to build your own App not just copy the Demo Apps.
 
 Note: You can generate the TypeScript code automatically by using the Code Generator.
 
-[Class 23 English Facebook Video : Building A project With React, TypeScript And GraphQL](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/)
-
-[Class 23 English YouTube Video : Building A project With React, TypeScript And GraphQL](https://www.youtube.com/watch?v=gavh9cTxGWI)
-
-[Class 23 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224260317480475/)
-
-[Class 23 English Facebook Video](https://www.youtube.com/watch?v=oVn0oXOdS58)
-
-
-
 ## Part VI: Managing State with Redux
 
 [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 
 [Using Redux with React Hooks](https://thoughtbot.com/blog/using-redux-with-react-hooks)
 
-[Zeeshan Code for Redux with Hooks](https://github.com/zeeshanhanif/learn-redux-with-react-hooks)
+[Learn Redux Toolkit](https://redux-toolkit.js.org/introduction/quick-start)
 
-[Zeeshan Code for Redux with Redux Toolkit](https://github.com/zeeshanhanif/learn-redux-with-redux-toolkit.git)
+[Basic Tutorial of Redux Toolkit](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
-Learn Redux Toolkit
-
-[Quick Start](https://redux-toolkit.js.org/introduction/quick-start)
-
-[Basic Tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
-
-[Class 24 in English on Facebook : Learning Redux](https://www.facebook.com/zeeshanhanif/videos/10224286453093849/)
-
-[Class 24 in English on YouTube : Learning Redux](https://www.youtube.com/watch?v=OO0lhveAZks)
-
-[Redux Presentation by Aamir](https://docs.google.com/presentation/d/1AYPOmQ-5PgoCnasjZ3qMo_LCHp2jo0kxFlLHnP2dkaA/)
-
-[Class 24 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224301420908035/)
-
-[Class 24 in Urdu on Facebook](https://www.youtube.com/watch?v=K7J_Ju1r2fM)
-
-[Intermediate Tutorial: Redux Toolkit in Action](https://redux-toolkit.js.org/tutorials/intermediate-tutorial)
+[Redux Presentation by Aamir Pinger](https://docs.google.com/presentation/d/1AYPOmQ-5PgoCnasjZ3qMo_LCHp2jo0kxFlLHnP2dkaA/)
 
 ## Part VII: API Mocking Servers with Mirage
 
 [Mirage Tutorial](https://miragejs.com/tutorial/intro/)
 
-[Class 25 in English on Facebook : Learning Redux ToolKit And Mirage Mocking Server](https://www.facebook.com/zeeshanhanif/videos/10224313589932253/)
-
-[Class 25 in English on YouTube : Learning Redux ToolKit And Mirage Mocking Server](https://www.youtube.com/watch?v=cZ5_x0BcJdQ)
-
-[Class 25 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224323086249655/)
-
-[Class 25 in Urdu on YouTube](https://www.youtube.com/watch?v=ShKroZxL89k)
-
 [Thunk API for Async](https://redux-toolkit.js.org/api/createAsyncThunk)
 
 [Zeeshan's Code for Thunk](https://github.com/zeeshanhanif/redux-toolkit-async)
-
-[Class 26 in English on Facebook : Learning Redux Async Thunk](https://www.facebook.com/zeeshanhanif/videos/10224378742081016/)
-
-[Class 26 in English on YouTube : Learning Redux Async Thunk](https://www.youtube.com/watch?v=NxnELWEdh1s)
-
-[Class 26 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224388032073260/)
-
-[Class 26 in Urdu on YouTube](https://www.youtube.com/watch?v=ifSriFrEvQA)
 
 Mirage Notes:
 
@@ -518,25 +421,20 @@ Mirage Notes:
 2. Returning data from Mirage is as fast and easy as writing frontend code
 3. You never alter your application code to consume data from Mirage – your app thinks it's talking to a real network
 
-### Bootcamp 2020 Project 9A: Create a Shopping Basket using React and Redux Toolkit with TypeScript
+#### Project 9A: Create a Shopping Basket using React and Redux Toolkit with TypeScript
 
 [Create a shopping basket using React and Redux Toolkit](https://developerhandbook.com/stripe/create-shopping-basket-using-redux-toolkit/)
 
-[Project Repo](https://github.com/jpreecedev/shopping-basket-tutorial)
+[Demo Project Repo](https://github.com/jpreecedev/shopping-basket-tutorial)
 
-
-### Bootcamp 2020 Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript
+#### Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript
 In this project we will be learning to use Redux by building an app that lets users create and manage diaries. We will be building our application using React, and we’ll set up Mirage as our API mocking server since we have not yet learned to build API's.
 
 [We will follow this Tutorial: Setting Up Redux For Use In A Real-World Application](https://www.smashingmagazine.com/2020/08/redux-real-world-application/)
 
-[Partial implementation, of only login and signup with react, redux and mirage by Zeeshan](https://github.com/zeeshanhanif/diaries-app-partial)
-
 Note: In the project React Router v5 is being used we recommend that you use v6 in your project.
 
 This Project is very important because up to now we have been doing small projects which focused on only focused limited functionality. Project 9B is the first real-world professional project. In the real-world, we will be doing these kinds of projects. Therefore, give special attention to it.
-
-
 
 ## Part VIII: Forms with Formik and Yup
 
