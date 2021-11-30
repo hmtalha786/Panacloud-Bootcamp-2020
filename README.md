@@ -415,6 +415,8 @@ Note: You can generate the TypeScript code automatically by using the Code Gener
 
 [Zeeshan's Code for Thunk](https://github.com/zeeshanhanif/redux-toolkit-async)
 
+[Mirage JS Deep Dive](https://www.smashingmagazine.com/2020/04/miraje-js-models-associations/)
+
 Mirage Notes:
 
 1. Mirage runs in the browser, so there's no new terminal processes to manage
