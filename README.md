@@ -16,10 +16,6 @@ We will teach you online to Build Modern Full Stack Serverless Mobile Web Apps a
 
 [YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
 
-### Teaching Team:
-
-[Zeeshan Hanif](https://github.com/zeeshanhanif), Hira Khan, Bashir Aziz, Daniyal Nogori, [Moshin Khalid](https://github.com/MuhammadMohsin), Aamir Pinger, Adil Altaf, Ameen Alam, Waris, Huma, and [Zia Khan](https://github.com/ziaukhan).
-
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites-html-css-and-javascript)
