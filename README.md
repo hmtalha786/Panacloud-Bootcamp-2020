@@ -26,32 +26,29 @@ These topics have been released for everyone in Urdu:
 
 [Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
-Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
-
 [Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
+Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
+
 # Table of Contents
-1. [Part I: Front-End Fundamentals with React](#part-i-front-end-fundamentals-with-react)
-2. [Part II: Programming with TypeScript](#part-ii-programming-with-typescript)
-3. [Part III: Progressive Web Apps (PWA)](#part-iii-progressive-web-apps-pwa)
-4. [Part IV: Testing React in TypeScript](#part-iv-testing-react-in-typeScript)
-5. [Part V: Client Side GraphQL in React Apps](#part-v-client-side-graphql-in-react-apps)
-6. [Part VI: Managing State with Redux](#part-vi-managing-state-with-redux)
-7. [Part VII: API Mocking Servers with Mirage](#part-vii-api-mocking-servers-with-mirage)
-8. [Part VIII: Forms with Formik and Yup](#part-viii-forms-with-formik-and-yup)
-9. [Part IX: Component Driven Development with Storybook and Bit](#part-ix-component-driven-development-with-storybook-and-bit)
-10. [Part X: JAMstack Serverless and Headless CMS](#part-x-jamstack-serverless-and-headless-cms)
-24. [Part XI: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#part-xi-jamstack-ecommerce-stripe-shopify-and-snipcart)
-25. [Part XII: Full Stack Serverless with AWS Cloud Development Kit - CDK](#part-xii-full-stack-serverless-with-aws-cloud-development-kit---cdk)
-26. [Part XIII: Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify](#part-xiii-android-and-ios-mobile-full-stack-apps-using-react-native-with-expo-and-amplify)
-27. [Appendices](#appendices)
+[Part I: Front-End Fundamentals with React](#part-i-front-end-fundamentals-with-react)
+[Part II: Programming with TypeScript](#part-ii-programming-with-typescript)
+[Part III: Progressive Web Apps (PWA)](#part-iii-progressive-web-apps-pwa)
+[Part IV: Testing React in TypeScript](#part-iv-testing-react-in-typeScript)
+[Part V: Client Side GraphQL in React Apps](#part-v-client-side-graphql-in-react-apps)
+[Part VI: Managing State with Redux](#part-vi-managing-state-with-redux)
+[Part VII: API Mocking Servers with Mirage](#part-vii-api-mocking-servers-with-mirage)
+[Part VIII: Forms with Formik and Yup](#part-viii-forms-with-formik-and-yup)
+[Part IX: Component Driven Development with Storybook and Bit](#part-ix-component-driven-development-with-storybook-and-bit)
+[Part X: JAMstack Serverless and Headless CMS](#part-x-jamstack-serverless-and-headless-cms)
+[Part XI: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#part-xi-jamstack-ecommerce-stripe-shopify-and-snipcart)
+[Part XII: Full Stack Serverless with AWS Cloud Development Kit - CDK](#part-xii-full-stack-serverless-with-aws-cloud-development-kit---cdk)
+[Part XIII: Android, and iOS Mobile Full Stack Apps using React Native with Expo and Amplify](#part-xiii-android-and-ios-mobile-full-stack-apps-using-react-native-with-expo-and-amplify)
+[Appendices](#appendices)
     * [Appendix A: Figma for Developers](#appendix-a-figma-for-developers)
     * [Appendix B: Design Patterns in TypeScript](#appendix-b-design-patterns-in-typeScript)
     * [Appendix C: Combining Design thinking, Lean Startup, and Agile to Build SaaS Startups](#appendix-c-combining-design-thinking-lean-startup-and-agile-to-build-saaS-startups)
     * [Appendix D: Cloud Security](#appendix-d-cloud-security)
-    * [Appendix E: List of Students who have completed the first 12 Projects and started to work todays becoming a Full Stack Serverless Cloud Developer](#appendix-e-list-of-students-who-have-completed-the-first-12-projects-and-started-to-work-towards-becoming-a-full-stack-serverless-cloud-developer)
-
-
 
 # Part I: Front-End Fundamentals with React
 
