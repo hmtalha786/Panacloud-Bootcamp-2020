@@ -440,15 +440,13 @@ This Project is very important because up to now we have been doing small projec
 
 ## Part VIII: Forms with Formik and Yup
 
-[Easy forms with Formik - part I](https://softchris.github.io/books/react/formik-partI/)
-
 [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 
+[Easy forms with Formik](https://softchris.github.io/books/react/formik-partI/)
+
+[Formik Official Website](https://formik.org/)
+
 [React Formik Playlist](https://www.youtube.com/playlist?list=PLT5Jhb7lgSBM4VCbfJAAch3G6XioJXuFX)
-
-[Formik Installation](https://formik.org/docs/overview#installation)
-
-[Formik Tutorial](https://formik.org/docs/tutorial)
 
 [Formik: React Forms Video Tutorial with Yup and Material](https://www.youtube.com/watch?v=kYyaJyTLjpk&t=40m26s)
 
