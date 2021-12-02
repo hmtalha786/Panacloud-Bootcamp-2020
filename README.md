@@ -456,30 +456,11 @@ This Project is very important because up to now we have been doing small projec
 
 [Zeeshan's Formik Repo](https://github.com/zeeshanhanif/react-formik)
 
-[Class 27 in English on Facebook: Learning React Formik And Yup Part 1](https://www.facebook.com/zeeshanhanif/videos/10224414911585231/)
-
-[Class 27 in English on YouTube : Learning React Formik And Yup Part 1](https://www.youtube.com/watch?v=v09HCJpOspE)
-
-[Class 27 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224423714485298/)
-
-[Class 27 in Urdu on YouTube](https://www.youtube.com/watch?v=rwEUvkA9a7g)
-
-[Class 28 in English on Facebook : Learning React Formik And Yup Part 2](https://www.facebook.com/zeeshanhanif/videos/10224443277214354/)
-
-[Class 28 in Engish on YouTube : Learning React Formik And Yup Part 2](https://www.youtube.com/watch?v=wi7a9TqQt7E)
-
-[Class 28 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224452812932741/)
-
-[Class 28 in Urdu on YouTube](https://www.youtube.com/watch?v=nDfCBV5Jq-I)
-
-
-### Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
+#### Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
 
 [Working With React, Formik and Yup](https://webomnizz.com/working-with-react-formik-and-yup/)
 
 [React Multi-Step Form Tutorial: Using Formik, Yup and material-ui](https://www.youtube.com/watch?v=l3NEC4McW3g)
-
-
 
 ## Part IX: Component Driven Development with Storybook and Bit
 
