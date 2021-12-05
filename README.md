@@ -511,12 +511,6 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Practical JAMstack Textbook](https://www.apress.com/gp/book/9781484261767)
 
-[Project 12C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
-
-[Project 12D Bookmark App by Daniyal](https://github.com/daniyalnagori/bookmarking-app)
-
-[Project 12E Virtual Lolly App by Zeeshan](https://github.com/zeeshanhanif/gatsby-virtual-lolly)
-
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
 [This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
@@ -558,22 +552,25 @@ We want you to build this blog site with gated content, available only for logge
 
 [Project Article](https://www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty/)
 
+[Project 12D Bookmark App by Daniyal](https://github.com/daniyalnagori/bookmarking-app)
+
 Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript
 
 ### Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby, Netlify, FaunaDB, Formik, and Storybook 6
 
 [Project Article](https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/)
 
-[Project Repo](https://github.com/philhawksworth/virtual-lolly)
+[Project Demo Repo](https://github.com/philhawksworth/virtual-lolly)
 
-[Project Demo](https://vlolly.net/)
+[Project Demo Site](https://vlolly.net/)
+
+[Project 12E Virtual Lolly App by Zeeshan](https://github.com/zeeshanhanif/gatsby-virtual-lolly)
 
 [Visual Testing with Storybook in Gatsby](https://www.gatsbyjs.com/docs/visual-testing-with-storybook/)
 
 [Forms with Formik — Gatsby — Netlify](https://medium.com/@thaotruong203/forms-with-formik-gatsby-netlify-11992b7ece99)
 
 Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript. For developing the form you are required to use Formik. For developing the React Components you will use Storybook 6.
-
 
 ### Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel
 
