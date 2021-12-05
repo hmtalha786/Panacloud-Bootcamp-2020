@@ -1,0 +1,12 @@
+export { default as img1 } from "../images/1.png";
+export { default as img2 } from "../images/2.png";
+export { default as img3 } from "../images/3.png";
+export { default as img4 } from "../images/4.png";
+export { default as img5 } from "../images/5.png";
+export { default as img6 } from "../images/6.png";
+export { default as img1b } from "../images/1b.png";
+export { default as img2b } from "../images/2b.png";
+export { default as img3b } from "../images/3b.png";
+export { default as img4b } from "../images/4b.png";
+export { default as img5b } from "../images/5b.png";
+export { default as img6b } from "../images/6b.png";
