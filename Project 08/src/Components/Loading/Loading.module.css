@@ -1,0 +1,46 @@
+*, html,body{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+	font-family:'Poppins', sans-serif;
+}
+::selection{
+	background-color:#2d98da;
+	color:#fff;
+}
+
+.Box{
+	position:relative;
+	width:100px;
+	height:100px;
+	transform-style:preserve-3d;
+	transform-origin:center;
+	transform:rotate(45deg);
+	animation:Loading 1s linear infinite;
+}
+.Box span{
+	position:absolute;
+	width:50px;
+	height:50px;
+	animation:MyLoading 1s ease-in-out infinite;
+}
+.Box span:first-of-type{
+	left:0px;
+	top:0px;
+	background: #FFB6C1;
+}
+.Box span:nth-of-type(2){
+	right:0px;
+	top:0px;
+	background: #90EE90;
+}
+.Box span:nth-of-type(3){
+	left:0px;
+	bottom:0px;
+	background: #FFFF00;
+}
+.Box span:last-of-type{
+	right:0px;
+	bottom:0px;
+	background: #87CEFA;
+}

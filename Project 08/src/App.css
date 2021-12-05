@@ -1,0 +1,16 @@
+body {
+  background-image: url(https://free4kwallpapers.com/uploads/originals/2021/02/07/space-turksat-a-launch-wallpaper.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  color: #fff;
+}
+
+.status {
+  color: "red";
+}
