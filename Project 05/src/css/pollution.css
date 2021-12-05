@@ -1,0 +1,46 @@
+#turbineWings1,
+#turbineWings2,
+#turbineWings3 {
+	transform-origin: center;
+	transform-box: fill-box;
+}
+.leftSide {
+	padding: 5%;
+}
+
+@media screen and (max-width: 420px) {
+	.image-container {
+		justify-content: center;
+	}
+	.image-container svg {
+		height: auto;
+		width: 150%;
+	}
+}
+@media screen and (min-width: 421px) and (max-width: 600px) {
+	.image-container {
+		justify-content: center;
+	}
+	.image-container svg {
+		height: auto;
+		width: 150%;
+	}
+}
+@media screen and (min-width: 601px) and (max-width: 768px) {
+	.image-container svg {
+		height: auto;
+		width: 100%;
+	}
+}
+@media screen and (min-width: 769px) and (max-width: 1060px) {
+	.image-container svg {
+		height: auto;
+		width: 100%;
+	}
+}
+@media screen and (min-width: 1061px) and (max-width: 1260px) {
+	.image-container svg {
+		height: auto;
+		width: 100%;
+	}
+}

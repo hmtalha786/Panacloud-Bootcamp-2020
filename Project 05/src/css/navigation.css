@@ -1,0 +1,32 @@
+.navbar {
+	color: var(--dark-parrat-color);
+	z-index: 10;
+}
+.navbar a {
+	color: var(--dark-parrat-color);
+}
+.navbar a:hover {
+	color: darkgreen;
+}
+.navbar i {
+	color: var(--dark-parrat-color);
+}
+
+.bg-color {
+	background-color: transparent !important;
+	color: var(--dark-parrat-color);
+}
+.bg-color i {
+	color: var(--dark-parrat-color);
+}
+.bg-color-scrolled {
+	background-color: var(--dark-green-ground-color) !important;
+	color: white;
+}
+.bg-color-scrolled a {
+	color: white;
+}
+
+.bg-color-scrolled i {
+	color: white;
+}
