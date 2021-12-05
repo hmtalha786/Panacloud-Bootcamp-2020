@@ -454,7 +454,7 @@ This Project is very important because up to now we have been doing small projec
 
 [Zeeshan's Formik Repo](https://github.com/zeeshanhanif/react-formik)
 
-#### Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
+#### Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
 
 [Working With React, Formik and Yup](https://webomnizz.com/working-with-react-formik-and-yup/)
 
@@ -468,8 +468,7 @@ Component Driven Development (CDD)
 
 [Component Driven Development (CDD) In React](https://whatjackhasmade.co.uk/component-driven-development)
 
-
-Storybook 6
+#### Storybook 6
 
 [Building React Apps With Storybook 6](https://www.smashingmagazine.com/2020/09/building-react-apps-storybook/)
 
@@ -479,52 +478,30 @@ Storybook 6
 
 [Decorators](https://storybook.js.org/docs/react/writing-stories/decorators)
 
-[Storybook 6 Announcement](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
-
 [TypeScript Config](https://storybook.js.org/docs/configurations/typescript-config/)
 
 [Reference Learning Material](https://www.learnstorybook.com/intro-to-storybook/)
 
-[Class 29 in English on Facebook : Learning Component Driven Development Part 1 With Storybook](https://www.facebook.com/zeeshanhanif/videos/10224477793477239/)
+[Storybook 6 Announcement](https://medium.com/storybookjs/storybook-6-0-1e14a2071000)
 
-[Class 29 in English on YouTube : Learning Component Driven Development Part 1 With Storybook](https://www.youtube.com/watch?v=ors4hsRJ8uM)
-
-[Class 29 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224486726500559/)
-
-[Class 29 in Urdu on YouTube](https://www.youtube.com/watch?v=aha6zRfEJMs)
-
-
-Bit.dev
+#### Bit.dev
 
 [Bit for React](https://docs.bit.dev/docs/tutorials/bit-react-tutorial)
 
 [How to Use React and Typescript in Bit.dev](https://medium.com/@vagacoder/how-to-use-react-and-typescript-in-bit-dev-89a1260d2d9f)
 
-Using Storybook and Bit.dev Together
+###### Using Storybook and Bit.dev Together
 
 [How is bit.dev different from Storybook?](https://blog.bitsrc.io/how-is-bit-dev-different-from-storybook-892b373733bd)
 
-
-Design Systems for Developers
+###### Design Systems for Developers
 
 [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
-
-[Class 30 in English on Facebook : Learning Component Driven Development Part 2 With Bit And Design System](https://www.facebook.com/zeeshanhanif/videos/10224504982876957/)
-
-[Class 30 in English on YouTube: Learning Component Driven Development Part 2 With Bit And Design System](https://www.youtube.com/watch?v=QcKLURv-npc)
-
-[Class 30 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224514496194784/)
-
-[Class 30 in Urdu on YouTube](https://www.youtube.com/watch?v=f6XpLs9hnK0)
-
-
-
-### Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit
+#### Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit
 Build a Taskbox, a task management UI (similar to Asana), complete with multiple item types and states. We'll go from building simple UI components to assembling screens. Each chapter the the tutorial illustrates a different aspect of developing UIs with Storybook.
 
 [Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
-
 
 ## Part X: JAMstack Serverless and Headless CMS
 
