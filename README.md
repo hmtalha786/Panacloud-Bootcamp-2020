@@ -462,7 +462,7 @@ This Project is very important because up to now we have been doing small projec
 
 ## Part IX: Component Driven Development with Storybook and Bit
 
-Component Driven Development (CDD)
+#### Component Driven Development (CDD)
 
 [A Guide to Component Driven Development (CDD)](https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55)
 
@@ -490,11 +490,11 @@ Component Driven Development (CDD)
 
 [How to Use React and Typescript in Bit.dev](https://medium.com/@vagacoder/how-to-use-react-and-typescript-in-bit-dev-89a1260d2d9f)
 
-###### Using Storybook and Bit.dev Together
+#### Using Storybook and Bit.dev Together
 
 [How is bit.dev different from Storybook?](https://blog.bitsrc.io/how-is-bit-dev-different-from-storybook-892b373733bd)
 
-###### Design Systems for Developers
+#### Design Systems for Developers
 
 [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
