@@ -1,0 +1,73 @@
+.inexp {
+  border: 2px solid #212529;
+  border-radius: 20px;
+  padding-top: 10px;
+  box-shadow: 0 3px 16px 0 #212529;
+}
+
+.money {
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin: 5px 0;
+}
+
+.balance {
+  color: blueviolet;
+}
+
+.plus {
+  color: green;
+}
+
+.minus {
+  color: red;
+}
+
+label {
+  display: inline-block;
+  margin: 10px 0;
+}
+
+input[type="text"],
+input[type="number"] {
+  display: block;
+  font-size: 16px;
+  padding: 10px;
+  width: 100%;
+}
+
+.addTransactionButton {
+  cursor: pointer;
+  background-color: #212529;
+  box-shadow: var(--box-shadow);
+  color: #fff;
+  border: 0;
+  display: block;
+  font-size: 16px;
+  margin: 10px 0 30px;
+  padding: 10px;
+  width: 100%;
+}
+
+.mlist {
+  color: red;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 2px solid red;
+  border-radius: 25px;
+  box-shadow: 0 3px 16px 0 #212529;
+  cursor: pointer;
+}
+
+.plist {
+  color: green;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 2px solid green;
+  border-radius: 25px;
+  box-shadow: 0 3px 16px 0 #212529;
+  cursor: pointer;
+}
+
+
