@@ -1,0 +1,39 @@
+.actionBtn {
+  font-size: 30px;
+  margin: 10px;
+  padding: 10px;
+  border-width: 1px;
+  border-radius: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.actionBtn:hover {
+  cursor: pointer;
+}
+@media (max-width: 900px) {
+    .actionBtn {
+        font-size: 25px;
+        margin: 10px;
+        padding: 10px;
+      }
+}
+@media (max-width: 680px) {
+    .actionBtn {
+        font-size: 20px;
+        margin: 8px;
+        padding: 8px;
+      }
+}
+@media (max-width: 570px) {
+    .actionBtn {
+        font-size: 20px;
+        margin: 5px;
+        padding: 5px;
+      }
+}
+@media (max-width: 490px) {
+    .actionBtn {
+        font-size: 18px;
+        margin: 5px;
+        padding: 5px;
+      }
+}
