@@ -1,0 +1,48 @@
+.container {
+  height: 100vh;
+  position: relative;
+}
+
+.orange {
+  left: 43%;
+}
+
+.green {
+left: 46%;
+}
+
+.blue {
+left:49%;
+}
+
+.pink {
+left: 52%;
+}
+
+.yellow {
+  left: 55%;
+}
+
+.center {
+  position: absolute;
+  margin: 0;
+  top: 90%;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.circle {
+  position: absolute;
+  margin: 0;
+  top: 45vh;
+  left: 47vw;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	border-right: 5px solid #90EE90;
+  border-left: 5px solid #FFB6C1;
+  border-top: 5px solid #87CEFA;
+  border-bottom: 5px solid #FFFF00;
+	/* margin: 20px; */
+}
