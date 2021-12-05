@@ -505,9 +505,11 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 ## Part X: JAMstack Serverless and Headless CMS
 
-[Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
+##### Learn JAMstack Serverless Modern App Development in Baby Steps using Gatsby.js, React, TypeScript, GraphQL, Contentful, Netlify, FaunaDB, MongoDB, Apollo, Github Actions, Project Fugu, and CSS Houdini.
 
-[Our JAMstack Textbook for Bootcamp 2020 Read Chapter 1](https://www.apress.com/gp/book/9781484261767)
+[Panacloud Modern Global Apps using JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
+
+[Practical JAMstack Textbook](https://www.apress.com/gp/book/9781484261767)
 
 [Project 12C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
 
