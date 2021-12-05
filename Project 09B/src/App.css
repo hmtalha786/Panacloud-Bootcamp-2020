@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+.entryCards {
+  display: flex;
+  /* justify-content: space-between; */
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  color: #af293e;
+}
+
+.diaryCards {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+  padding: 30px;
+  align-items: center;
+}
