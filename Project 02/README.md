@@ -1,1 +1,0 @@
-Project URL : [Surge Url](http://covid_19_gta.surge.sh/)
